@@ -1,0 +1,26 @@
+A!REFDES!COMP_VOLTAGE!COMP_CDS_FSP_LIB_PART_MODEL!COMP_CDS_FSP_INSTANCE_NAME!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_CDS_FSP_INSTANCE_ID!COMP_NO_XNET_CONNECTION!COMP_CDS_FSP_IS_FPGA!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
+J!F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd!Fri Mar 08 15:20:04 2019!-793.701!-1185.827!7092.913!6692.913!0.001!mils!XBLD_PRODUCTION_TOOLS!10.400000 mil!2!UP TO DATE!
+S!J7!!!!!!!!!!!!!!!
+S!EN1!!!!!!!!!!!!!!!
+S!EN2!!!!!!!!!!!!!!!
+S!TP2!!!!!!!!!!!!!!!
+S!TP1!!!!!!!!!!!!!!!
+S!ON!!!!!!!!!!!!!!!
+S!J4!!!!!!!!!!!!!!!
+S!VCC!!!!!!!!!!!!!!!
+S!FPGA!!!!!!!!!!!!!!!
+S!CONF!!!!!!!!!!!!!!!
+S!J3!!!!!!!!!!!!!!!
+S!J2!!!!!!!!!!!!!!!
+S!3V3!!!!!!!!!!!!!!!
+S!12V!!!!!!!!!!!!!!!
+S!GND1!!!!!!!!!!!!!!!
+S!GND2!!!!!!!!!!!!!!!
+S!JTAG!!!!!!!!!!!!!!!
+S!J5!!!!!!!!!!!!!!!
+S!J1!!!!!!!!!!!!!!!
+S!J6!!!!!!!!!!!!!!!
+S!R4!!!!!!!!!!!!!!!
+S!R1!!!!!!!!!!!!!!!
+S!R2!!!!!!!!!!!!!!!
+S!R3!!!!!!!!!!!!!!!

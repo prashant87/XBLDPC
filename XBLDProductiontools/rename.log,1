@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Mar 07 15:46:33 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-793.701,-1185.827) (7092.913,6692.913)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+OLD SW1    NEW RE1
+OLD J2    NEW RE2
+OLD TP1    NEW TP1
+OLD 12V    NEW RE3
+OLD J1    NEW RE4
+OLD J4    NEW RE5
+OLD J10    NEW RE6
+OLD VCC    NEW RE7
+OLD R2    NEW RE8
+OLD J8    NEW RE9
+OLD J9    NEW RE10
+OLD J7    NEW RE11
+OLD FPGA    NEW RE12
+OLD R3    NEW RE13
+OLD R1    NEW RE14
+OLD CONF    NEW RE15
+OLD R4    NEW RE16
+OLD 3V3    NEW RE17
+OLD GND    NEW RE18
+OLD J11    NEW RE19
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the LEFT, from the top down.
+

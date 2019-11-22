@@ -1,0 +1,116 @@
+Thu Mar 21 10:59:36 2019				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu Mar 21 10:59:36 2019
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Mar 21 10:59:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Mar 21 10:59:36 2019				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/office/AppData/Local/Temp/#Taaaaab04032.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+           E:/CADANCE16/CADENCE/PCBLIB/52463071/52463071_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/LEDC0603/LEDC0603_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/M4/M4_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/MTS202/MTS202_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/RESC0603/RESC0603_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P14X1/SHDR0S254P14X1_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P3X2/SHDR0S254P3X2_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P4X2/SHDR0S254P4X2_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P5X2_JTAG/SHDR0S254P5X2_JTAG_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/TP/TP_Allegro/ 
+           F:/XBLD/Procedure/PCB/XBLDProductiontools/ 
+           E:/CADANCE16/CADENCE/PCBLIB/TP_4_6/TP_4_6_ALLEGRO/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X1/SHDR0S254P3X1_Allegro/ 
+
+PADPATH =  E:/Cadance16/Cadence/pcblib/52463071/52463071_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BLD/BLD_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BM14B-SRSS-TB/BM14B-SRSS-TB_Allegro/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/padstacks 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+           E:/Cadance16/Cadence/pcblib/CAPC0402/CAPC0402/CAPC0402_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0603/CAPC0603/CAPC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0805/CAPC0805/CAPC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC1210/CAPC1210/CAPC1210_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/INDC0805/INDC0805/INDC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LEDC0603/LEDC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LP5907/SOT23-5/SOT23-5_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LT8609/MSOP-10/MSOP-10_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/M4/M4_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/MTS202/MTS202_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0603/RESC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P14X1/SHDR0S254P14X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X2/SHDR0S254P3X2_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P4X2/SHDR0S254P4X2_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P5X2_JTAG/SHDR0S254P5X2_JTAG_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TP/TP_Allegro/ 
+           F:/XBLD/Procedure/PCB/XBLDProductiontools/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X1/SHDR0S254P3X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TP_4_6/TP_4_6_Allegro/ 
+
+
+------ Symbol Refresh Messages ------
+
+'SHDR0S254P5X2_JTAG'  symbol refreshed successfully.
+'SHDR0S254P14X1'  symbol refreshed successfully.
+'MTS202'  symbol refreshed successfully.
+'M4'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 4 out 4
+    Design updated.
+

@@ -1,0 +1,174 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!
+J!F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd!Tue Apr 09 16:47:52 2019!-793.701!-1185.827!17092.913!16692.913!0.001!mils!XBLDFPGABOARD!47.200000 mil!6!OUT OF DATE!
+S!@xbldfpgaboard.schematic1(sch_1):ins13594020@connector.\conn socket 2.normal\(chips)!CONN SOCKET 2_SHDR0S254P2X1_CON!J3!.\pstchip.dat!!!!!!F102!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522729@xbldfpgaboard.\trnsfmr sp-42_0.normal\(chips)!TRNSFMR SP-42_0_SM-22_MABAES006!T1!.\pstchip.dat!!!!!!F15!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13581232@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_50R_NC!R22!.\pstchip.dat!!!!!!F33!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528533@capture.\cap.normal\(chips)!CAP_CAPC0805_10UF/25V!C32!.\pstchip.dat!!!!!!F171!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531634@capture.\cap.normal\(chips)!CAP_CAPC0805_22UF/6.3V!C18!.\pstchip.dat!!!!!!F170!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530510@capture.\cap.normal\(chips)!CAP_CAPC0805_10UF/6.3V!C24!.\pstchip.dat!!!!!!F169!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13532852@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C12!.\pstchip.dat!!!!!!F168!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13532538@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C21!.\pstchip.dat!!!!!!F167!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13534319@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C14!.\pstchip.dat!!!!!!F166!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13533493@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C22!.\pstchip.dat!!!!!!F165!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511703@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C40!.\pstchip.dat!!!!!!F164!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511661@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C42!.\pstchip.dat!!!!!!F163!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520155@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C39!.\pstchip.dat!!!!!!F162!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528597@capture.\cap.normal\(chips)!CAP_CAPC0402_1UF!C56!.\pstchip.dat!!!!!!F161!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13532814@capture.\cap.normal\(chips)!CAP_CAPC0402_NC!C13!.\pstchip.dat!!!!!!F160!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13534281@capture.\cap.normal\(chips)!CAP_CAPC0402_NC!C15!.\pstchip.dat!!!!!!F159!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528563@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF/25V!C31!.\pstchip.dat!!!!!!F158!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13529944@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF/25V!C30!.\pstchip.dat!!!!!!F157!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530022@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF/25V!C29!.\pstchip.dat!!!!!!F156!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511635@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C6!.\pstchip.dat!!!!!!F155!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519271@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C44!.\pstchip.dat!!!!!!F154!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13514987@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C9!.\pstchip.dat!!!!!!F153!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519305@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C49!.\pstchip.dat!!!!!!F152!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520019@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C37!.\pstchip.dat!!!!!!F151!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519399@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C52!.\pstchip.dat!!!!!!F150!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13517213@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C53!.\pstchip.dat!!!!!!F149!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531580@capture.\cap.normal\(chips)!CAP_CAPC0402_100NF!C23!.\pstchip.dat!!!!!!F148!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520079@capture.\cap.normal\(chips)!CAP_CAPC0402_4.7PF!C7!.\pstchip.dat!!!!!!F147!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519335@capture.\cap.normal\(chips)!CAP_CAPC0402_2.2UF!C47!.\pstchip.dat!!!!!!F146!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498088@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C17!.\pstchip.dat!!!!!!F145!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498443@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C25!.\pstchip.dat!!!!!!F144!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503663@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C1!.\pstchip.dat!!!!!!F143!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504830@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C19!.\pstchip.dat!!!!!!F142!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13545762@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C16!.\pstchip.dat!!!!!!F141!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13546333@capture.\cap.normal\(chips)!CAP_CAPC1210_100UF/6.3V!C20!.\pstchip.dat!!!!!!F140!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498106@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C4!.\pstchip.dat!!!!!!F139!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498461@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C3!.\pstchip.dat!!!!!!F138!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503345@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C2!.\pstchip.dat!!!!!!F137!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503681@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C5!.\pstchip.dat!!!!!!F136!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504552@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C8!.\pstchip.dat!!!!!!F135!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504848@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603_4.7UF!C11!.\pstchip.dat!!!!!!F134!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498052@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C34!.\pstchip.dat!!!!!!F133!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498070@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C36!.\pstchip.dat!!!!!!F132!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498479@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C41!.\pstchip.dat!!!!!!F131!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498497@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C10!.\pstchip.dat!!!!!!F130!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503363@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C51!.\pstchip.dat!!!!!!F129!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503381@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C50!.\pstchip.dat!!!!!!F128!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503699@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C48!.\pstchip.dat!!!!!!F127!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503717@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C43!.\pstchip.dat!!!!!!F126!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504570@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C33!.\pstchip.dat!!!!!!F125!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504516@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C38!.\pstchip.dat!!!!!!F124!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504534@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C35!.\pstchip.dat!!!!!!F123!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504866@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C46!.\pstchip.dat!!!!!!F122!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504884@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_470NF!C45!.\pstchip.dat!!!!!!F121!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13541900@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_100NF!C26!.\pstchip.dat!!!!!!F120!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538449@discrete.\cap np.normal\(chips)!CAP NP_CAPC0402_100NF!C54!.\pstchip.dat!!!!!!F119!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528661@capture.\cap.normal\(chips)!CAP_CAPC0402_100PF!C57!.\pstchip.dat!!!!!!F118!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530578@capture.\cap.normal\(chips)!CAP_CAPC0402_100PF!C27!.\pstchip.dat!!!!!!F117!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13529996@capture.\cap.normal\(chips)!CAP_CAPC0805_22UF/10V!C28!.\pstchip.dat!!!!!!F116!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530162@capture.\cap.normal\(chips)!CAP_CAPC0402_10PF!C55!.\pstchip.dat!!!!!!F115!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542588@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D5!.\pstchip.dat!!!!!!F114!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542604@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D6!.\pstchip.dat!!!!!!F113!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543434@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D3!.\pstchip.dat!!!!!!F112!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543571@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D4!.\pstchip.dat!!!!!!F111!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543683@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D1!.\pstchip.dat!!!!!!F110!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543798@discrete.\led.normal\(chips)!LED_LEDC0603_LED!D2!.\pstchip.dat!!!!!!F109!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538165@connector.\conn socket 14/sm.normal\(chips)!CONN SOCKET 14/SM_BM14B-SRSS-TB!J10!.\pstchip.dat!!!!!!F108!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538748@connector.\conn socket 15x2/sm.normal\(chips)!CONN SOCKET 15X2/SM_533643027_C!J1!.\pstchip.dat!!!!!!F107!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13560708@connector.\conn pcb 5.normal\(chips)!CONN PCB 5_BLD_CONN PCB 5!J2!.\pstchip.dat!!!!!!F106!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13561386@connector.\conn pcb 5.normal\(chips)!CONN PCB 5_BLD_CONN PCB 5!J8!.\pstchip.dat!!!!!!F105!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13561451@connector.\conn pcb 5.normal\(chips)!CONN PCB 5_BLD_CONN PCB 5!J9!.\pstchip.dat!!!!!!F104!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13561521@connector.\conn pcb 5.normal\(chips)!CONN PCB 5_BLD_CONN PCB 5!J4!.\pstchip.dat!!!!!!F103!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13524292@connector.\rca jack.normal\(chips)!RCA JACK_SIG002_RCA JACK!J5!.\pstchip.dat!!!!!!F101!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13524567@connector.\header 4x2.normal\(chips)!HEADER 4X2_SHDR0S254P4X2_HEADER!J7!.\pstchip.dat!!!!!!F100!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13524878@connector.\header 3x2.normal\(chips)!HEADER 3X2_SHDR0S254P3X2_HEADER!J6!.\pstchip.dat!!!!!!F99!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13529966@capture.\inductor.normal\(chips)!INDUCTOR_XFL4020__2.2UH_XFL4020!L5!.\pstchip.dat!!!!!!F98!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13533551@acm.\inductor.normal\(chips)!INDUCTOR_INDC0805__BLM21PG221SN!L4!.\pstchip.dat!!!!!!F97!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13532604@acm.\inductor.normal\(chips)!INDUCTOR_INDC0805__BLM21PG221SN!L3!.\pstchip.dat!!!!!!F96!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13534353@acm.\inductor.normal\(chips)!INDUCTOR_INDC0805__BLM21PG221SN!L1!.\pstchip.dat!!!!!!F95!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13534383@acm.\inductor.normal\(chips)!INDUCTOR_INDC0805__BLM21PG221SN!L2!.\pstchip.dat!!!!!!F94!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528443@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_10K!R70!.\pstchip.dat!!!!!!F93!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531656@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_100K!R38!.\pstchip.dat!!!!!!F92!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530220@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_100K!R73!.\pstchip.dat!!!!!!F91!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531698@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_100K/1%!R68!.\pstchip.dat!!!!!!F90!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531504@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_49.9K/1%!R67!.\pstchip.dat!!!!!!F89!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13531558@capture.\resistor.normal\(chips)!RESISTOR_RESC0805_0R!R33!.\pstchip.dat!!!!!!F88!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13532894@capture.\resistor.normal\(chips)!RESISTOR_RESC0805_0R!R30!.\pstchip.dat!!!!!!F87!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519779@capture.\resistor.normal\(chips)!RESISTOR_RESC0805_0R!R40!.\pstchip.dat!!!!!!F86!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530088@capture.\resistor.normal\(chips)!RESISTOR_RESC0805_0R!R34!.\pstchip.dat!!!!!!F85!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528367@capture.\resistor.normal\(chips)!RESISTOR_RESC0805_0R!R39!.\pstchip.dat!!!!!!F84!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13521685@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_1K!R48!.\pstchip.dat!!!!!!F83!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13508269@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_1K!R61!.\pstchip.dat!!!!!!F82!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13508313@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_1K!R57!.\pstchip.dat!!!!!!F81!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528481@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R69!.\pstchip.dat!!!!!!F77!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511919@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R1!.\pstchip.dat!!!!!!F80!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511845@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R2!.\pstchip.dat!!!!!!F79!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511863@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R3!.\pstchip.dat!!!!!!F78!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511881@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R4!.\pstchip.dat!!!!!!F76!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519853@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R8!.\pstchip.dat!!!!!!F75!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511827@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R5!.\pstchip.dat!!!!!!F74!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515247@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R9!.\pstchip.dat!!!!!!F73!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515283@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R12!.\pstchip.dat!!!!!!F72!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515265@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R13!.\pstchip.dat!!!!!!F71!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515229@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R16!.\pstchip.dat!!!!!!F70!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515159@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R17!.\pstchip.dat!!!!!!F69!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515177@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R18!.\pstchip.dat!!!!!!F68!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515195@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R19!.\pstchip.dat!!!!!!F67!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13515141@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R20!.\pstchip.dat!!!!!!F66!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13521029@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R55!.\pstchip.dat!!!!!!F65!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516330@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R23!.\pstchip.dat!!!!!!F64!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516356@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R28!.\pstchip.dat!!!!!!F63!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516378@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R29!.\pstchip.dat!!!!!!F62!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516312@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R27!.\pstchip.dat!!!!!!F61!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516414@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R26!.\pstchip.dat!!!!!!F60!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516432@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R50!.\pstchip.dat!!!!!!F59!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516458@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R25!.\pstchip.dat!!!!!!F58!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13516396@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R!R24!.\pstchip.dat!!!!!!F57!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520121@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_100R!R47!.\pstchip.dat!!!!!!F36!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519911@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_10R!R7!.\pstchip.dat!!!!!!F56!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520205@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_10R!R15!.\pstchip.dat!!!!!!F55!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520227@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_10R!R14!.\pstchip.dat!!!!!!F54!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519945@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_10R!R6!.\pstchip.dat!!!!!!F53!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519971@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_33.2R/1%!R11!.\pstchip.dat!!!!!!F52!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13519997@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_33.2R/1%!R10!.\pstchip.dat!!!!!!F51!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13520045@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_0R_NC!R46!.\pstchip.dat!!!!!!F49!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13521711@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_1K!R49!.\pstchip.dat!!!!!!F50!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528499@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R71!.\pstchip.dat!!!!!!F48!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522144@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R60!.\pstchip.dat!!!!!!F47!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522260@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R52!.\pstchip.dat!!!!!!F46!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522296@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R51!.\pstchip.dat!!!!!!F45!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13506355@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R56!.\pstchip.dat!!!!!!F44!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542235@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R37!.\pstchip.dat!!!!!!F43!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542271@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R31!.\pstchip.dat!!!!!!F42!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542205@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R32!.\pstchip.dat!!!!!!F41!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538557@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R75!.\pstchip.dat!!!!!!F40!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538575@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R74!.\pstchip.dat!!!!!!F39!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13538531@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R76!.\pstchip.dat!!!!!!F38!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13508755@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_4.7K!R62!.\pstchip.dat!!!!!!F37!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528623@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_0R!R72!.\pstchip.dat!!!!!!F35!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13521138@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_0R!R54!.\pstchip.dat!!!!!!F34!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13528695@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_18.2K!R41!.\pstchip.dat!!!!!!F32!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13517419@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_22R!R21!.\pstchip.dat!!!!!!F31!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522278@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_4.7K!R59!.\pstchip.dat!!!!!!F30!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522314@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_4.7K!R58!.\pstchip.dat!!!!!!F29!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13522162@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_4.7K!R53!.\pstchip.dat!!!!!!F28!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542289@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_100R/1%!R35!.\pstchip.dat!!!!!!F27!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542253@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_NC_100R/1%!R36!.\pstchip.dat!!!!!!F26!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530114@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_309K/1%!R77!.\pstchip.dat!!!!!!F25!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542749@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_330R/1%!R63!.\pstchip.dat!!!!!!F24!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542805@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R65!.\pstchip.dat!!!!!!F23!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542914@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R66!.\pstchip.dat!!!!!!F22!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543480@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R44!.\pstchip.dat!!!!!!F21!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543599@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R45!.\pstchip.dat!!!!!!F20!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543711@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R42!.\pstchip.dat!!!!!!F19!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13543826@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_220R/1%!R43!.\pstchip.dat!!!!!!F18!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13542946@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_1K/1%!R64!.\pstchip.dat!!!!!!F17!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13530144@capture.\resistor.normal\(chips)!RESISTOR_RESC0402_1M/1%!R78!.\pstchip.dat!!!!!!F16!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins368@\xc6slx45-2csg324i\.\xc6slx45-2csg324ia.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F14!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins921@\xc6slx45-2csg324i\.\xc6slx45-2csg324ib.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F13!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13498912@\xc6slx45-2csg324i\.\xc6slx45-2csg324ic.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F12!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13499364@\xc6slx45-2csg324i\.\xc6slx45-2csg324id.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F11!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503837@\xc6slx45-2csg324i\.\xc6slx45-2csg324ie.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F10!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13503930@\xc6slx45-2csg324i\.\xc6slx45-2csg324if.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F9!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504071@\xc6slx45-2csg324i\.\xc6slx45-2csg324ig.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F8!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13504252@\xc6slx45-2csg324i\.\xc6slx45-2csg324ih.normal\(chips)!XC6SLX45-2CSG324I_XC6SLX45-2CSG!U2!.\pstchip.dat!!!!!!F7!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13511166@\ltc2257-14\.\ltc2257-14.normal\(chips)!LTC2257-14_QFN-40_LTC2257-14!U1!.\pstchip.dat!!!!!!F6!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13517108@pcblib.\tg5032cfn.normal\(chips)!TG5032CFN_TG5032CFN_TG5032CFN!U3!.\pstchip.dat!!!!!!F5!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13527545@lt8609.\lt8609a.normal\(chips)!LT8609A_MSOP-10_LT8609A!U8!.\pstchip.dat!!!!!!F4!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13527612@pcblib.\tps82130.normal\(chips)!TPS82130_TPS82130_TPS82130!U7!.\pstchip.dat!!!!!!F3!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13527665@lp5907.\lp5907.normal\(chips)!LP5907_SOT23-5_LP5907!U4!.\pstchip.dat!!!!!!F2!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13527693@lp5907.\lp5907.normal\(chips)!LP5907_SOT23-5_LP5907!U5!.\pstchip.dat!!!!!!F1!!!!
+S!@xbldfpgaboard.schematic1(sch_1):ins13541668@pcblib.\w25q128bve.normal\(chips)!W25Q128BVE_W25Q128BVE_W25Q128BV!U6!.\pstchip.dat!!!!!!F0!!!!

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Mar 07 16:50:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 2
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: Out of date  Point on shape: (4644.409 80.000)  Net: GND

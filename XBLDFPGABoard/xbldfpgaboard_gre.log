@@ -1,0 +1,178 @@
+! Log file started at 10:42:2 4/8/2019 
+INFO (SPGRE-16): Strategy file Date: Oct-28-2015
+INFO (SPGRE-16): Strategy file Version: 16.6
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND05 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer PWR04 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer ART03 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND02 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiPT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Phase Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 2
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 45.262 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 392.948 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 98450 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Phase constraints: 4, Phase violations: 2, Outside ideal range: 2
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519931 from Pin R21.1(400.000, 1468.110) - Pin T2.1(467.618, 1525.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R21.1 - T2.1 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual -45.262 MIL : Length 173.843 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519943 from Pin R35.1(350.000, 1468.110) - Pin T2.3(467.618, 1625.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R35.1 - T2.3 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual 45.262 MIL : Length 219.105 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiPT *************************************************
+INFO (SPGRE-16): CommandStart AiPT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Phase Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 2
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 45.262 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 392.948 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 98490 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Phase constraints: 4, Phase violations: 2, Outside ideal range: 2
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519931 from Pin R21.1(400.000, 1468.110) - Pin T2.1(467.618, 1525.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R21.1 - T2.1 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual -45.262 MIL : Length 173.843 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519943 from Pin R35.1(350.000, 1468.110) - Pin T2.3(467.618, 1625.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R35.1 - T2.3 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual 45.262 MIL : Length 219.105 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiPT *************************************************
+INFO (SPGRE-16): Strategy file Date: Oct-28-2015
+INFO (SPGRE-16): Strategy file Version: 16.6
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND05 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer PWR04 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer ART03 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND02 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 2
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 45.262 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 392.948 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 98575 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519931 from Pin R21.1(400.000, 1468.110) - Pin T2.1(467.618, 1525.000) on TOP
+INFO (SPGRE-16):   ----: Rat R21.1 - T2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519943 from Pin R35.1(350.000, 1468.110) - Pin T2.3(467.618, 1625.000) on TOP
+INFO (SPGRE-16):   ----: Rat R35.1 - T2.3 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiPT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Phase Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 2
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 27.984 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 542.084 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 98948 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Phase constraints: 4, Phase violations: 2, Outside ideal range: 2
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519931 from Pin R21.1(400.000, 1468.110) - Pin T2.1(467.618, 1525.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R21.1 - T2.1 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual 27.984 MIL : Length 285.034 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519943 from Pin R35.1(350.000, 1468.110) - Pin T2.3(467.618, 1625.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R35.1 - T2.3 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual -27.984 MIL : Length 257.050 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiPT *************************************************
+INFO (SPGRE-16): CommandStart AiPT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Phase Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 2
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 27.984 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 542.084 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 98948 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Phase constraints: 4, Phase violations: 2, Outside ideal range: 2
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519931 from Pin R21.1(400.000, 1468.110) - Pin T2.1(467.618, 1525.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R21.1 - T2.1 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual 27.984 MIL : Length 285.034 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13519943 from Pin R35.1(350.000, 1468.110) - Pin T2.3(467.618, 1625.000) on TOP
+INFO (SPGRE-16):   FAIL: Rat R35.1 - T2.3 : Ideal Range[-5.000 MIL, 5.000 MIL] : Actual -27.984 MIL : Length 257.050 MIL : Dynamic PASS
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiPT *************************************************
+INFO (SPGRE-16): Strategy file Date: Oct-28-2015
+INFO (SPGRE-16): Strategy file Version: 16.6
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND05 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer PWR04 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer ART03 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND02 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 3.530 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 277.327 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 99183 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 3.530 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 277.327 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 99199 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************

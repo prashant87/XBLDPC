@@ -1,0 +1,136 @@
+INI File Location:E:\Cadance16\Cadence\SPB_Data\cdssetup\OrCAD_Capture/16.6.0/Capture.ini
+Unable to open F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro\XBLDFPGABOARD.brd for reading.
+Please correct the above error(s) to proceed
+
+INFO(ORCAP-32001): Extracting logic from Board
+INFO(ORCAP-32003): Allegro Board File:
+F:\XBLD\Procedure\PCB\XBLDFPGABoard\xbldfpgaboard.brd
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro
+
+Spawning... genfeedformat.exe -x -b "F:\XBLD\Procedure\PCB\XBLDFPGABoard\xbldfpgaboard.brd" -o "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro"
+Genfeedformat execution completed.
+
+Exiting... genfeedformat.exe -x -b "F:\XBLD\Procedure\PCB\XBLDFPGABoard\xbldfpgaboard.brd" -o "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro"
+(---------------------------------------------------------------------)
+(                                                                     )
+(    GenFeed                                                          )
+(                                                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Apr 09 16:50:22 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Extract file used: F:/XBLD/PROCEDURE/PCB/XBLDFPGABOARD/ALLEGRO/pxlBA.txt
+
+SUMMARY: No errors or warnings detected.
+INFO(ORCAP-32005): *** Done ***
+Design Name:
+F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro
+Configuration File:
+E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg
+
+Spawning... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision" -backwd
+#1 WARNING(ORCAP-36006): Part Name "CONN SOCKET 14/SM_BM14B-SRSS-TB_CONN SOCKET 14/SM" is renamed to "CONN SOCKET 14/SM_BM14B-SRSS-TB".
+#2 WARNING(ORCAP-36006): Part Name "CONN SOCKET 15X2/SM_533643027_CONN SOCKET 15X2/SM" is renamed to "CONN SOCKET 15X2/SM_533643027_C".
+#3 WARNING(ORCAP-36006): Part Name "CONN SOCKET 2_SHDR0S254P2X1_CONN SOCKET 2" is renamed to "CONN SOCKET 2_SHDR0S254P2X1_CON".
+#4 WARNING(ORCAP-36006): Part Name "HEADER 4X2_SHDR0S254P4X2_HEADER 4X2" is renamed to "HEADER 4X2_SHDR0S254P4X2_HEADER".
+#5 WARNING(ORCAP-36006): Part Name "HEADER 3X2_SHDR0S254P3X2_HEADER 3X2" is renamed to "HEADER 3X2_SHDR0S254P3X2_HEADER".
+#6 WARNING(ORCAP-36006): Part Name "INDUCTOR_XFL4020__2.2UH_XFL4020-222ME" is renamed to "INDUCTOR_XFL4020__2.2UH_XFL4020".
+#7 WARNING(ORCAP-36006): Part Name "INDUCTOR_INDC0805__BLM21PG221SN1D" is renamed to "INDUCTOR_INDC0805__BLM21PG221SN".
+#8 WARNING(ORCAP-36006): Part Name "TRNSFMR SP-42_0_SM-22_MABAES0060" is renamed to "TRNSFMR SP-42_0_SM-22_MABAES006".
+#9 WARNIN
+G(ORCAP-36006): Part Name "XC6SLX45-2CSG324I_XC6SLX45-2CSG324_(S1+S2+S3+S4+S5+S6+S7+S8)_XC6SLX45-2CSG324I" is renamed to "XC6SLX45-2CSG324I_XC6SLX45-2CSG".
+#10 WARNING(ORCAP-36006): Part Name "W25Q128BVE_W25Q128BVE_W25Q128BVE" is renamed to "W25Q128BVE_W25Q128BVE_W25Q128BV".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstxprt.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstxnet.dat
+packaging the design view...
+
+Exiting... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision" -backwd
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32041): Generating Backannotation file
+Allegro Board File:
+F:\XBLD\Procedure\PCB\XBLDFPGABoard\xbldfpgaboard.brd
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro
+Output File:
+F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro\XBLDFPGABOARD.swp
+
+Spawning... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -swp -d "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro" -s "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro\XBLDFPGABOARD.swp" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg"  -hpath "HPathForCollision" -backwd
+unzip:  cannot find either feedbackview.cdsz or feedbackview.cdsz.zip.
+INFO(ORCAP-36108): Starting the Swp file dumping process ...
+Loading netlist files ...
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstxprt.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pstxnet.dat
+packaging the design view...Loading physical design view ...Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/funcview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/compview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/netview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro/pinview.dat
+packaging the design view...
+Generating the design view difference...
+INFO(ORCAP-36103): Analyzing Gate and Pin Swaps ...
+
+Analyzing Refdes Changes ...
+
+Analyzing Instance Property Differences ...
+
+Analyzing Net Property Differences ...
+
+Analyzing Pin Property Differences ...
+INFO(ORCAP-36104): Exiting the Swp file dumping process ...
+
+Exiting... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -swp -d "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro" -s "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro\XBLDFPGABOARD.swp" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg"  -hpath "HPathForCollision" -backwd
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32043): Updating Schematic
+INFO(ORCAP-32044): Backannotation File F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\allegro\XBLDFPGABOARD.swp
+ 
+INFO(ORCAP-1384): Processing section "".Section2""...
+
+
+********************************************************************************
+*
+*  Performing back annotation.
+*
+********************************************************************************
+INFO(ORCAP-1383): Back annotation complete.
+INFO(ORCAP-1384): Processing section "".Section3""...
+
+
+********************************************************************************
+*
+*  Updating properties
+*
+********************************************************************************
+INFO(ORCAP-40316): Evaluating Xnets and differential pairs in the design. This may take some time.
+WARNING(ORCAP-40275): DC net VDD_ADC_1V8 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net VCC_3V3 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net +12V does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net OVDD_ADC_1V8 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net VCC_F_1V2 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net GND does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net VCC_CLK_2V5 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net VCC_F_3V3 does not have the VOLTAGE property specified.
+INFO(ORCAP-40270): Evaluated Xnet and differential pairs in the design.
+   N13519943:  DIFFERENTIAL_PAIR   Stuffed
+   N13519943:  MIN_LINE_WIDTH   Stuffed
+   N13520293:  DIFFERENTIAL_PAIR   Stuffed
+   N13520293:  MIN_LINE_WIDTH   Stuffed
+   N13520297:  DIFFERENTIAL_PAIR   Stuffed
+   N13520297:  MIN_LINE_WIDTH   Stuffed
+   N13519931:  DIFFERENTIAL_PAIR   Stuffed
+   N13519931:  MIN_LINE_WIDTH   Stuffed
+INFO(ORCAP-1381): Done updating properties
+INFO(ORCAP-40241): Imported 0 Electrical CSets used in the design from the folder allegro and stored inside the design file F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN.

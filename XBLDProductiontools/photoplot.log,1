@@ -1,0 +1,444 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Mar 11 09:03:16 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.16929                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.03642     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.02165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.08169     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (492.125 157.480)
+           ... using undefined line width of 6.000
+
+    WARNING: Segment with same start and end points at
+	(44.000 3823.994) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4611.395 3893.008) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4680.408 3823.994) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4680.409 113.014) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(113.014 44.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.16929                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < silktop >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/silktop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+    WARNING: 0 width line found at (846.455 78.740)
+           ... using undefined line width of 6.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     silktop created with warnings
+
+
+================================================================
+     PROCESSING FILM < silkbot >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/silkbot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     silkbot created.
+
+
+================================================================
+     PROCESSING FILM < drill >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     drill created.
+
+
+================================================================
+     PROCESSING FILM < soldtop >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/soldtop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.03642     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.02165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.08169     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     soldtop created.
+
+
+================================================================
+     PROCESSING FILM < soldbot >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/soldbot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     soldbot created.
+
+
+================================================================
+     PROCESSING FILM < pasttop >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/pasttop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.03642     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.02165       0.000 NO     DARK 
+  RECTANGLE  0.08169     x 0.02362      90.000 NO     DARK 
+
+     pasttop created.
+
+
+================================================================
+     PROCESSING FILM < pastbot >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/pastbot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     pastbot created.
+
+
+================================================================
+     PROCESSING FILM < assytop >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/assytop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.03642     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.02165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.08169     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     assytop created.
+
+
+================================================================
+     PROCESSING FILM < assybot >
+     TO FILE < F:/XBLD/Procedure/PCB/XBLDProductiontools/assybot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05512                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  CIRCLE     0.12106                                  DARK 
+  CIRCLE     0.22835                                  DARK 
+  RECTANGLE  0.05512     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.05709      90.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165       0.000 NO     DARK 
+  RECTANGLE  0.07165     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.12106     x 0.12106      90.000 NO     DARK 
+
+     assybot created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created with warnings
+        silktop created with warnings
+        silkbot created.
+        drill created.
+        soldtop created.
+        soldbot created.
+        pasttop created.
+        pastbot created.
+        assytop created.
+        assybot created.
+
+ ARTWORK had warnings

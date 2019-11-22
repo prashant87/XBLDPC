@@ -1,0 +1,375 @@
+INI File Location:E:\Cadance16\Cadence\SPB_Data\cdssetup\OrCAD_Capture/16.6.0/Capture.ini
+Unable to open F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.brd for reading.
+Please correct the above error(s) to proceed
+
+Unable to open F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.brd for reading.
+Please correct the above error(s) to proceed
+
+INFO(ORCAP-32001): Extracting logic from Board
+INFO(ORCAP-32003): Allegro Board File:
+F:\XBLD\Procedure\PCB\XBLDProductiontools\newtools.brd
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro
+
+Spawning... genfeedformat.exe -x -b "F:\XBLD\Procedure\PCB\XBLDProductiontools\newtools.brd" -o "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro"
+Genfeedformat execution completed.
+
+Exiting... genfeedformat.exe -x -b "F:\XBLD\Procedure\PCB\XBLDProductiontools\newtools.brd" -o "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro"
+(---------------------------------------------------------------------)
+(                                                                     )
+(    GenFeed                                                          )
+(                                                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri Mar 08 08:44:32 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Extract file used: F:/XBLD/PROCEDURE/PCB/XBLDPRODUCTIONTOOLS/allegro/pxlBA.txt
+
+SUMMARY: No errors or warnings detected.
+INFO(ORCAP-32005): *** Done ***
+Design Name:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro
+Configuration File:
+E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg
+
+Spawning... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision" -backwd
+#1 WARNING(ORCAP-36006): Part Name "HEADER 3X2_SHDR0S254P3X2_HEADER 3X2" is renamed to "HEADER 3X2_SHDR0S254P3X2_HEADER".
+#2 WARNING(ORCAP-36006): Part Name "HEADER 5X2_SHDR0S254P5X2_JTAG_HEADER 5X2" is renamed to "HEADER 5X2_SHDR0S254P5X2_JTAG_H".
+#3 WARNING(ORCAP-36006): Part Name "HEADER 4X2_SHDR0S254P4X2_HEADER 4X2" is renamed to "HEADER 4X2_SHDR0S254P4X2_HEADER".
+#4 WARNING(ORCAP-36006): Part Name "HEADER 15X2/SM_0_52463071_HEADER 15X2/SM" is renamed to "HEADER 15X2/SM_0_52463071_HEADE".
+#5 WARNING(ORCAP-36006): Part Name "HEADER 14_SHDR0S254P14X1_HEADER 14" is renamed to "HEADER 14_SHDR0S254P14X1_HEADER".
+#6 WARNING(ORCAP-36006): Part Name "SW KEY-DPDT_0_MTS202_SW KEY-DPDT" is renamed to "SW KEY-DPDT_0_MTS202_SW KEY-DPD".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxprt.dat
+
+Loa
+ding... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxnet.dat
+packaging the design view...
+
+Exiting... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision" -backwd
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32041): Generating Backannotation file
+Allegro Board File:
+F:\XBLD\Procedure\PCB\XBLDProductiontools\newtools.brd
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro
+Output File:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.swp
+
+Spawning... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -swp -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -s "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.swp" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg"  -hpath "HPathForCollision" -backwd
+unzip:  cannot find either feedbackview.cdsz or feedbackview.cdsz.zip.
+INFO(ORCAP-36108): Starting the Swp file dumping process ...
+Loading netlist files ...
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxprt.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxnet.dat
+packaging the design view...Loading physical design view ...Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/funcview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/compview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/netview.dat
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pinview.dat
+packaging the design view...
+Generating the design view difference...
+INFO(ORCAP-36103): Analyzing Gate and Pin Swaps ...
+
+Analyzing Refdes Changes ...
+
+Analyzing Instance Property Differences ...
+
+Analyzing Net Property Differences ...
+
+Analyzing Pin Property Differences ...
+INFO(ORCAP-36104): Exiting the Swp file dumping process ...
+
+Exiting... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -swp -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -s "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.swp" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg"  -hpath "HPathForCollision" -backwd
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32043): Updating Schematic
+INFO(ORCAP-32044): Backannotation File F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro\XBLD_PRODUCTION_TOOLS.swp
+ 
+INFO(ORCAP-1384): Processing section "".Section2""...
+
+
+********************************************************************************
+*
+*  Performing back annotation.
+*
+********************************************************************************
+INFO(ORCAP-1383): Back annotation complete.
+INFO(ORCAP-40316): Evaluating Xnets and differential pairs in the design. This may take some time.
+WARNING(ORCAP-40275): DC net GND does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net 3V does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net F_3V3 does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net 12V_IN does not have the VOLTAGE property specified.
+WARNING(ORCAP-40275): DC net 3V_IN does not have the VOLTAGE property specified.
+INFO(ORCAP-40270): Evaluated Xnet and differential pairs in the design.
+INFO(ORCAP-40241): Imported 0 Electrical CSets used in the design from the folder allegro and stored inside the design file F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN.
+Could not find D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB
+Could not find D:\MAXWORK\HARDWARE\FPGA\V3\XBLD_AD_FPGA-3.DSN
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 8 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 8.70)
+(5.30, 8.80)
+(5.30, 8.10)
+(5.30, 8.30)
+(5.30, 8.20)
+(5.30, 8.40)
+(5.30, 8.60)
+(5.30, 8.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 8 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 8.70)
+(5.30, 8.80)
+(5.30, 8.10)
+(5.30, 8.30)
+(5.30, 8.20)
+(5.30, 8.40)
+(5.30, 8.60)
+(5.30, 8.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 8 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.40, 8.10)
+(5.40, 8.30)
+(5.40, 8.20)
+(5.40, 8.40)
+(5.40, 8.60)
+(5.40, 8.50)
+(5.40, 8.70)
+(5.40, 8.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 8 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.40, 8.10)
+(5.40, 8.30)
+(5.40, 8.20)
+(5.40, 8.40)
+(5.40, 8.60)
+(5.40, 8.50)
+(5.40, 8.70)
+(5.40, 8.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 8.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 8.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 7.70)
+(5.30, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 7.70)
+(5.30, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 7.70)
+(5.30, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.30, 7.70)
+(5.30, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 7.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 7.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(5.50, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 11 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(4.60, 8.40)
+(4.60, 8.60)
+(4.60, 8.50)
+(4.60, 7.50)
+(4.60, 7.80)
+(4.60, 7.70)
+(4.60, 7.90)
+(4.60, 8.10)
+(4.60, 8.00)
+(4.60, 8.30)
+(4.60, 8.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 11 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(4.60, 8.40)
+(4.60, 8.60)
+(4.60, 8.50)
+(4.60, 7.50)
+(4.60, 7.80)
+(4.60, 7.70)
+(4.60, 7.90)
+(4.60, 8.10)
+(4.60, 8.00)
+(4.60, 8.30)
+(4.60, 8.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(4.60, 7.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(4.60, 7.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.10, 7.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.10, 7.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.10, 7.30)
+(3.10, 7.35)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.50, 7.50)
+(3.55, 7.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.50, 7.70)
+(3.55, 7.70)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.50, 7.80)
+(3.55, 7.80)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 7.90)
+(3.50, 7.90)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.00)
+(3.50, 8.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.10)
+(3.50, 8.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.20)
+(3.50, 8.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.30)
+(3.50, 8.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.40)
+(3.50, 8.40)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.50)
+(3.50, 8.50)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 2 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(3.55, 8.60)
+(3.50, 8.60)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 6.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 6.00)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 6.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 6.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.10)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.20)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.30)
+--------------------------------------------------------------------------------------------------------------------------------------
+INFO(ORCAP-2282): The following 1 points have been identified as net connectivity change points from the last operation
+--------------------------------------------------------------------------------------------------------------------------------------
+(7.60, 7.30)
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN
+Netlist Directory:
+F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro
+Configuration File:
+E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg
+
+Spawning... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 WARNING(ORCAP-36006): Part Name "HEADER 14_SHDR0S254P14X1_HEADER 14" is renamed to "HEADER 14_SHDR0S254P14X1_HEADER".
+#2 WARNING(ORCAP-36006): Part Name "HEADER 3X2_SHDR0S254P3X2_HEADER 3X2" is renamed to "HEADER 3X2_SHDR0S254P3X2_HEADER".
+#3 WARNING(ORCAP-36006): Part Name "HEADER 15X2/SM_0_52463071_HEADER 15X2/SM" is renamed to "HEADER 15X2/SM_0_52463071_HEADE".
+#4 WARNING(ORCAP-36006): Part Name "HEADER 4X2_SHDR0S254P4X2_HEADER 4X2" is renamed to "HEADER 4X2_SHDR0S254P4X2_HEADER".
+#5 WARNING(ORCAP-36006): Part Name "CONN PCB 15X2-P_533643027_CONN PCB 15X2-P" is renamed to "CONN PCB 15X2-P_533643027_CONN".
+#6 WARNING(ORCAP-36006): Part Name "HEADER 5X2_SHDR0S254P5X2_JTAG_HEADER 5X2" is renamed to "HEADER 5X2_SHDR0S254P5X2_JTAG_H".
+#7 WARNING(ORCAP-36006): Part Name "SW KEY-DPDT_0_MTS202_SW KEY-DPDT" is renamed to "SW KEY-DPDT_0_MTS202_SW KEY-DPD".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDUR
+E\PCB\XBLDPRODUCTIONTOOLS\allegro/pstchip.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxprt.dat
+
+Loading... F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro/pstxnet.dat
+packaging the design view...
+
+Exiting... "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\capture\pstswp.exe" -pst -d "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\XBLD_PRODUCTION_TOOLS.DSN" -n "F:\XBLD\PROCEDURE\PCB\XBLDPRODUCTIONTOOLS\allegro" -c "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***

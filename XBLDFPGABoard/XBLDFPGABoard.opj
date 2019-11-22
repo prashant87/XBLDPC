@@ -1,0 +1,222 @@
+(ExpressProject "XBLDFPGABoard"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\xbldfpgaboard.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\XBLDFPGABOARD.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "F:\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.SWP")
+    (Backannotation_TAB "0")
+    ("Allegro Backannotation Run Genfeed" "TRUE")
+    ("Allegro Backannotation Board File"
+       "F:\XBLD\Procedure\PCB\XBLDFPGABoard\xbldfpgaboard.brd")
+    ("Allegro Backannotation Netlist Directory" "allegro")
+    ("Allegro Backannotation Output File" "allegro\XBLDFPGABOARD.swp")
+    ("Allegro Backannotation Update Schematic" "TRUE")
+    ("Allegro Backannotation View Output" "FALSE")
+    ("Allegro Setup Configuration File"
+       "E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools/capture/allegro.cfg"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro\pinview.dat"
+      (Type "Report")
+      (DisplayName "pinView.dat"))
+    (File ".\allegro\netview.dat"
+      (Type "Report")
+      (DisplayName "netView.dat"))
+    (File ".\allegro\funcview.dat"
+      (Type "Report")
+      (DisplayName "funcView.dat"))
+    (File ".\allegro\compview.dat"
+      (Type "Report")
+      (DisplayName "compView.dat"))
+    (File ".\allegro\xbldfpgaboard.swp"
+      (Type "Report")
+      (DisplayName "XBLDFPGABOARD.swp"))
+    (File ".\session log"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("CONN SOCKET 2"
+      (FullPartName "CONN SOCKET 2.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 1"
+      (FullPartName "CONN SOCKET 1.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 3"
+      (FullPartName "CONN SOCKET 3.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 5"
+      (FullPartName "CONN PCB 5.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (W25Q128BVE
+      (FullPartName "W25Q128BVE.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\PCBLIB.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 15x2/SM"
+      (FullPartName "CONN SOCKET 15x2/SM.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 14/SM"
+      (FullPartName "CONN SOCKET 14/SM.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN TRBLK 14"
+      (FullPartName "CONN TRBLK 14.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LP5907
+      (FullPartName "LP5907.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\LP5907.OLB")
+      (DeviceIndex "0"))
+    (TPS82130
+      (FullPartName "TPS82130.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\PCBLIB.OLB")
+      (DeviceIndex "0"))
+    (LT8609A
+      (FullPartName "LT8609A.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\LT8609.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3X2"
+      (FullPartName "HEADER 3X2.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4X2"
+      (FullPartName "HEADER 4X2.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("RCA JACK"
+      (FullPartName "RCA JACK.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("EDGE CONNECTOR"
+      (FullPartName "EDGE CONNECTOR.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("TRNSFMR SP-42"
+      (FullPartName "TRNSFMR SP-42.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TG5032CFN
+      (FullPartName "TG5032CFN.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\PCBLIB.OLB")
+      (DeviceIndex "0"))
+    (LTC2257-14
+      (FullPartName "LTC2257-14.Normal")
+      (LibraryName "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\LTC2257-14.OLB")
+      (DeviceIndex "0"))
+    (xc6slx45-2csg324i
+      (FullPartName "xc6slx45-2csg324iH.Normal")
+      (LibraryName
+         "E:\CADANCE16\CADENCE\PCBLIB\CISLIBRARY\XC6SLX45-2CSG324I.OLB")
+      (DeviceIndex "7")))
+  (LastUsedLibraryBrowseDirectory "E:\Cadance16\Cadence\pcblib\CISLibrary")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\projectspace\xbld\procedure\pcb\xbldfpgaboard\xbldfpgaboard.dsn")
+      (Path "Design Resources"
+         "d:\projectspace\xbld\procedure\pcb\xbldfpgaboard\xbldfpgaboard.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 294 0 407"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 22 1693 22 427")
+        (Scroll "-331 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTSPACE\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 44 1719 44 453")
+        (Scroll "-58 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTSPACE\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 66 1741 66 475")
+        (Scroll "1211 1418")
+        (Zoom "268")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTSPACE\XBLD\PROCEDURE\PCB\XBLDFPGABOARD\XBLDFPGABOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE5")))
+  (MPSSessionName "zyplab")
+  (ISPCBBASICLICENSE "false"))

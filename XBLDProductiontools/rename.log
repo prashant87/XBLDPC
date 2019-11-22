@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Mar 07 15:47:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-793.701,-1185.827) (7092.913,6692.913)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+OLD RE1    NEW RE1
+OLD RE2    NEW RE2
+OLD TP1    NEW TP1
+OLD RE3    NEW RE3
+OLD RE4    NEW RE4
+OLD RE5    NEW RE5
+OLD RE6    NEW RE6
+OLD RE7    NEW RE7
+OLD RE8    NEW RE8
+OLD RE9    NEW RE9
+OLD RE10    NEW RE10
+OLD RE11    NEW RE11
+OLD RE12    NEW RE12
+OLD RE13    NEW RE13
+OLD RE14    NEW RE14
+OLD RE15    NEW RE15
+OLD RE16    NEW RE16
+OLD RE17    NEW RE17
+OLD RE18    NEW RE18
+OLD RE19    NEW RE19
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the LEFT, from the top down.
+

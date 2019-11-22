@@ -1,0 +1,79 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : newtools.brd                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Mar 12 13:57:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         13.000  P        T01            0.000000     0.000000
+         20.000  P        T02            0.000000     0.000000
+         23.622  P        T03            0.000000     0.000000
+         25.591  P        T04            0.000000     0.000000
+         40.157  P        T05            0.000000     0.000000
+         97.441  P        T06            0.000000     0.000000
+        129.921  P        T07            0.000000     0.000000
+        188.976  P        T08            0.000000     0.000000
+
+
+Drill files being output to directory 'F:/XBLD/Procedure/PCB/XBLDProductiontools' ...
+
+
+
+     'newtools-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.  13.0000    0.0000/  0.0000      PLATED         18
+     T02    2.  20.0000    0.0000/  0.0000      PLATED          2
+     T03    3.  23.6220    0.0000/  0.0000      PLATED         28
+     T04    4.  25.5910    0.0000/  0.0000      PLATED         10
+     T05    5.  40.1570    0.0000/  0.0000      PLATED         29
+     T06    6.  97.4410    0.0000/  0.0000      PLATED          6
+     T07    7. 129.9210    0.0000/  0.0000      PLATED          4
+     T08    8. 188.9760    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        101
+
+     ---- Total head travel:              4.52 feet (1.38 meters)
+

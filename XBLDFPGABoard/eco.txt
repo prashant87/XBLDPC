@@ -1,0 +1,316 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND_12       pins MOVED FROM this net (to net name listed on right)
+                                 U1.G2           903.780 1328.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_13       pins MOVED FROM this net (to net name listed on right)
+                                 U1.G5           998.268 1328.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_14       pins MOVED FROM this net (to net name listed on right)
+                                 U1.H10          1155.74 1297.24
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_15       pins MOVED FROM this net (to net name listed on right)
+                                 U1.H8           1092.75 1297.24
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_16       pins MOVED FROM this net (to net name listed on right)
+                                 U1.J11          1187.24 1265.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_17       pins MOVED FROM this net (to net name listed on right)
+                                 U1.J15          1313.22 1265.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_18       pins MOVED FROM this net (to net name listed on right)
+                                 U1.J4           966.772 1265.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_19       pins MOVED FROM this net (to net name listed on right)
+                                 U1.J9           1124.25 1265.74
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_20       pins MOVED FROM this net (to net name listed on right)
+                                 U1.K10          1155.74 1234.25
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_21       pins MOVED FROM this net (to net name listed on right)
+                                 U1.K8           1092.75 1234.25
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_22       pins MOVED FROM this net (to net name listed on right)
+                                 U1.L11          1187.24 1202.75
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_23       pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.L9           1124.25 1202.75
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_24       pins MOVED FROM this net (to net name listed on right)
+                                 U1.M17          1376.22 1171.26
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_25       pins MOVED FROM this net (to net name listed on right)
+                                 U1.M2           903.780 1171.26
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_26       pins MOVED FROM this net (to net name listed on right)
+                                 U1.M6           1029.76 1171.26
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_27       pins MOVED FROM this net (to net name listed on right)
+                                 U1.N13          1250.23 1139.76
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_28       pins MOVED FROM this net (to net name listed on right)
+                                 U1.R1           872.283 1076.77
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_29       pins MOVED FROM this net (to net name listed on right)
+                                 U1.R14          1281.73 1076.77
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_30       pins MOVED FROM this net (to net name listed on right)
+                                 U1.R18          1407.71 1076.77
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_31       pins MOVED FROM this net (to net name listed on right)
+                                 U1.R4           966.772 1076.77
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_32       pins MOVED FROM this net (to net name listed on right)
+                                 U1.R9           1124.25 1076.77
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_33       pins MOVED FROM this net (to net name listed on right)
+                                 U1.T16          1344.72 1045.27
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_34       pins MOVED FROM this net (to net name listed on right)
+                                 U1.U12          1218.74 1013.78
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_35       pins MOVED FROM this net (to net name listed on right)
+                                 U1.U6           1029.76 1013.78
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_36       pins MOVED FROM this net (to net name listed on right)
+                                 U1.V1           872.283 982.283
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB0       pins DELETED FROM this net (all pins deleted)
+                                 U1.C17          1376.22 1454.72
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB1       pins DELETED FROM this net (all pins deleted)
+                                 U1.C18          1407.71 1454.72
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB2       pins DELETED FROM this net (all pins deleted)
+                                 U1.F14          1281.73 1360.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB3       pins DELETED FROM this net (all pins deleted)
+                                 U1.G14          1281.73 1328.74
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB4       pins DELETED FROM this net (all pins deleted)
+                                 U1.D17          1376.22 1423.22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB5       pins DELETED FROM this net (all pins deleted)
+                                 U1.D18          1407.71 1423.22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUSB6       pins DELETED FROM this net (all pins deleted)
+                                 U1.H12          1218.74 1297.24
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A0      pins DELETED FROM this net (all pins deleted)
+                                 U1.V13          1250.23 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A1      pins DELETED FROM this net (all pins deleted)
+                                 U1.M11          1187.24 1171.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A2      pins DELETED FROM this net (all pins deleted)
+                                 U1.N11          1187.24 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A3      pins DELETED FROM this net (all pins deleted)
+                                 U1.R11          1187.24 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A4      pins DELETED FROM this net (all pins deleted)
+                                 U1.T11          1187.24 1045.27
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SRAM_A5      pins DELETED FROM this net (all pins deleted)
+                                 U1.T12          1218.74 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A6      pins DELETED FROM this net (all pins deleted)
+                                 U1.V12          1218.74 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A7      pins DELETED FROM this net (all pins deleted)
+                                 U1.N10          1155.74 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A8      pins DELETED FROM this net (all pins deleted)
+                                 U1.P11          1187.24 1108.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A9      pins DELETED FROM this net (all pins deleted)
+                                 U1.M10          1155.74 1171.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A10     pins DELETED FROM this net (all pins deleted)
+                                 U1.N9           1124.25 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A11     pins DELETED FROM this net (all pins deleted)
+                                 U1.U11          1187.24 1013.78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A12     pins DELETED FROM this net (all pins deleted)
+                                 U1.V11          1187.24 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A13     pins DELETED FROM this net (all pins deleted)
+                                 U1.R10          1155.74 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A14     pins DELETED FROM this net (all pins deleted)
+                                 U1.T10          1155.74 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A15     pins DELETED FROM this net (all pins deleted)
+                                 U1.U10          1155.74 1013.78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A16     pins DELETED FROM this net (all pins deleted)
+                                 U1.V10          1155.74 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A17     pins DELETED FROM this net (all pins deleted)
+                                 U1.R8           1092.75 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_A18     pins DELETED FROM this net (all pins deleted)
+                                 U1.T8           1092.75 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_CE#     pins DELETED FROM this net (all pins deleted)
+                                 U1.R5           998.268 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SRAM_IO0     pins DELETED FROM this net (all pins deleted)
+                                 U1.T9           1124.25 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO1     pins DELETED FROM this net (all pins deleted)
+                                 U1.V9           1124.25 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO2     pins DELETED FROM this net (all pins deleted)
+                                 U1.M8           1092.75 1171.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO3     pins DELETED FROM this net (all pins deleted)
+                                 U1.N8           1092.75 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO4     pins DELETED FROM this net (all pins deleted)
+                                 U1.U8           1092.75 1013.78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO5     pins DELETED FROM this net (all pins deleted)
+                                 U1.V8           1092.75 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO6     pins DELETED FROM this net (all pins deleted)
+                                 U1.U7           1061.26 1013.78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO7     pins DELETED FROM this net (all pins deleted)
+                                 U1.V7           1061.26 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO8     pins DELETED FROM this net (all pins deleted)
+                                 U1.N7           1061.26 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO9     pins DELETED FROM this net (all pins deleted)
+                                 U1.P8           1092.75 1108.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO10    pins DELETED FROM this net (all pins deleted)
+                                 U1.T6           1029.76 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO11    pins DELETED FROM this net (all pins deleted)
+                                 U1.V6           1029.76 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO12    pins DELETED FROM this net (all pins deleted)
+                                 U1.R7           1061.26 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO13    pins DELETED FROM this net (all pins deleted)
+                                 U1.T7           1061.26 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_IO14    pins DELETED FROM this net (all pins deleted)
+                                 U1.N6           1029.76 1139.76
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd                       |
+|                                                    Mon Apr 08 16:03:24 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SRAM_IO15    pins DELETED FROM this net (all pins deleted)
+                                 U1.P7           1061.26 1108.26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_LB#     pins DELETED FROM this net (all pins deleted)
+                                 U1.V5           998.268 982.283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_OE#     pins DELETED FROM this net (all pins deleted)
+                                 U1.T5           998.268 1045.27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_UB#     pins DELETED FROM this net (all pins deleted)
+                                 U1.U5           998.268 1013.78
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SRAM_WE#     pins DELETED FROM this net (all pins deleted)
+                                 U1.R3           935.276 1076.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_ERR#     pins DELETED FROM this net (all pins deleted)
+                                 U1.F16          1344.72 1360.23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_RESET#   pins DELETED FROM this net (all pins deleted)
+                                 U1.F15          1313.22 1360.23
+|------------------------------------------------------------------------------|
+|       Nets changed          :      74                                        |
+|                                                                              |
+|   Total ECO changes reported:      74                                        |
+|------------------------------------------------------------------------------|

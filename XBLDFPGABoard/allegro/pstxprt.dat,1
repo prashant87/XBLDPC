@@ -1,0 +1,1709 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-08-2019 at 14:04:08 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='XBLDFPGABOARD';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_CAPC0805_10UF/25V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528533@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528533@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528533@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_CAPC0805_22UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531634@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531634@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531634@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_CAPC0805_10UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530510@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530510@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530510@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13532852@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13532852@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13532852@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_CAPC0402_NC':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13532814@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13532814@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13532814@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13532538@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13532538@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13532538@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13534319@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13534319@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13534319@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_CAPC0402_NC':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13534281@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13534281@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13534281@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13533493@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13533493@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13533493@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511703@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511703@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511703@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511661@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511661@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511661@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CAPC0402_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528563@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528563@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528563@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511635@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511635@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511635@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_CAPC0402_4.7PF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520079@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520079@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520079@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519271@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519271@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519271@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_CAPC0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519335@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519335@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519335@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13514987@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13514987@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13514987@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519305@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519305@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519305@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520019@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520019@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520019@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520155@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520155@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520155@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519399@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519399@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519399@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13517213@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13517213@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13517213@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_CAPC0402_1UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528597@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528597@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528597@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498088@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498088@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498088@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498106@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498106@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498106@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498052@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498052@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498052@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13541900@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13541900@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13541900@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498070@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498070@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498070@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498443@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498443@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498443@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498461@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498461@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498461@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498479@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498479@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498479@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498497@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498497@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins13498497@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_CAPC0402_100PF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528661@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528661@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528661@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503345@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503345@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503345@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503363@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503363@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503363@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503381@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503381@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503381@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503663@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503663@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503663@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503681@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503681@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503681@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503699@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503699@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503699@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503717@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503717@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13503717@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504552@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504552@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504552@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504570@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504570@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504570@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CAPC0402_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13529944@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13529944@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13529944@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504516@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504516@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504516@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504534@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504534@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504534@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504830@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504830@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504830@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_CAPC0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504848@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504848@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504848@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504866@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504866@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504866@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_CAPC0402_470NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504884@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504884@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504884@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538449@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538449@discrete.\cap np.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538449@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_CAPC0402_100NF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531580@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531580@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531580@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CAPC0805_22UF/10V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13529996@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13529996@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13529996@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13545762@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13545762@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13545762@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_CAPC1210_100UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13546333@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13546333@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13546333@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_CAPC0402_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530022@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530022@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530022@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_CAPC0402_10PF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530162@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530162@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530162@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_CAPC0402_100PF':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530578@CAPTURE.CAP.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530578@capture.\cap.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530578@capture.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542588@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542588@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542588@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542604@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542604@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542604@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543434@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543434@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543434@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543571@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543571@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543571@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543683@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543683@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543683@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543798@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543798@discrete.\led.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543798@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'CONN SOCKET 14/SM_BM14B-SRSS-TB':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538165@CONNECTOR.CONN SOCKET 14/SM.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538165@connector.\conn socket 14/sm.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538165@connector.\conn socket 14/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CONN SOCKET 15X2/SM_533643027_C':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538748@CONNECTOR.CONN SOCKET 15X2/SM.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538748@connector.\conn socket 15x2/sm.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538748@connector.\conn socket 15x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'CONN PCB 5_BLD_CONN PCB 5':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13560708@CONNECTOR.CONN PCB 5.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13560708@connector.\conn pcb 5.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13560708@connector.\conn pcb 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'CONN PCB 5_BLD_CONN PCB 5':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13561386@CONNECTOR.CONN PCB 5.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13561386@connector.\conn pcb 5.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13561386@connector.\conn pcb 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'CONN PCB 5_BLD_CONN PCB 5':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13561451@CONNECTOR.CONN PCB 5.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13561451@connector.\conn pcb 5.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13561451@connector.\conn pcb 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'CONN PCB 5_BLD_CONN PCB 5':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13561521@CONNECTOR.CONN PCB 5.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13561521@connector.\conn pcb 5.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13561521@connector.\conn pcb 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'CONN SOCKET 1_SHDR0S200P1X1_CON':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13593974@CONNECTOR.CONN SOCKET 1.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13593974@connector.\conn socket 1.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13593974@connector.\conn socket 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'RCA JACK_SIG002_RCA JACK':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13524292@CONNECTOR.RCA JACK.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13524292@connector.\rca jack.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13524292@connector.\rca jack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 4X2_SHDR0S254P4X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13524567@CONNECTOR.HEADER 4X2.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13524567@connector.\header 4x2.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13524567@connector.\header 4x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 3X2_SHDR0S254P3X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13524878@CONNECTOR.HEADER 3X2.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13524878@connector.\header 3x2.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13524878@connector.\header 3x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_XFL4020__2.2UH_XFL4020':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13529966@CAPTURE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13529966@capture.\inductor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13529966@capture.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_INDC0805__BLM21PG221SN':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13533551@ACM.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13533551@acm.\inductor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13533551@acm.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_INDC0805__BLM21PG221SN':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13532604@ACM.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13532604@acm.\inductor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13532604@acm.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_INDC0805__BLM21PG221SN':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13534353@ACM.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13534353@acm.\inductor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13534353@acm.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_INDC0805__BLM21PG221SN':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13534383@ACM.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13534383@acm.\inductor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13534383@acm.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC0402_NC_10K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528443@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528443@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528443@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RESC0402_NC_100K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531656@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531656@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531656@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RESC0402_100K/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531698@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531698@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531698@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RESC0402_49.9K/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531504@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531504@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531504@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RESC0805_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13531558@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13531558@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13531558@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RESC0805_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13532894@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13532894@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13532894@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RESC0805_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519779@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519779@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519779@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_RESC0402_1K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13521685@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13521685@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13521685@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511919@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511919@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511919@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511845@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511845@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511845@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511863@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511863@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511863@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528481@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528481@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528481@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511881@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511881@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511881@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_RESC0402_10R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519911@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519911@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519911@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_RESC0402_33.2R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519971@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519971@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519971@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_RESC0402_NC_1K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13521711@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13521711@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13521711@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519853@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519853@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519853@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_RESC0402_0R_NC':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520045@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520045@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520045@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RESC0402_10R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520205@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520205@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520205@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RESC0402_10R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520227@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520227@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520227@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_RESC0402_33.2R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519997@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519997@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519997@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528499@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528499@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528499@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511827@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511827@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511827@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515247@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515247@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515247@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515283@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515283@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515283@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515265@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515265@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515265@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515229@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515229@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515229@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_RESC0402_10R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13519945@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13519945@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13519945@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515159@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515159@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515159@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515177@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515177@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515177@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR_RESC0402_100R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13520121@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13520121@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13520121@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515195@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515195@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515195@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RESC0402_NC_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528623@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528623@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528623@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13515141@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13515141@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13515141@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13521029@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13521029@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13521029@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516330@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516330@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516330@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516356@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516356@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516356@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516378@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516378@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516378@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516312@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516312@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516312@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_RESC0402_50R_NC':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13581232@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13581232@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13581232@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516414@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516414@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516414@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516432@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516432@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516432@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_RESC0402_NC_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13521138@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13521138@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13521138@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RESC0402_18.2K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528695@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528695@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528695@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516458@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516458@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516458@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_RESC0402_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13516396@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13516396@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13516396@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_RESC0402_22R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13517419@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13517419@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13517419@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522144@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522144@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522144@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'RESISTOR_RESC0402_NC_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522278@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522278@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522278@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_RESC0402_NC_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522314@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522314@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522314@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_RESC0402_NC_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522162@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522162@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522162@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522260@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522260@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522260@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522296@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522296@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522296@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RESC0805_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530088@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530088@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530088@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13506355@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13506355@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13506355@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'RESISTOR_RESC0402_1K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13508269@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13508269@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13508269@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'RESISTOR_RESC0402_NC_100R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542289@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542289@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542289@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542235@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542235@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542235@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542271@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542271@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542271@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542205@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542205@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542205@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'RESISTOR_RESC0402_1K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13508313@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13508313@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13508313@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'RESISTOR_RESC0402_NC_100R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542253@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542253@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542253@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RESC0402_309K/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530114@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530114@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530114@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538557@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538557@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538557@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538575@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538575@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538575@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13538531@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13538531@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page7_ins13538531@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR_RESC0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13508755@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13508755@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13508755@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'RESISTOR_RESC0805_0R':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13528367@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13528367@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13528367@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'RESISTOR_RESC0402_330R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542749@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542749@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542749@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542805@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542805@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542805@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542914@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542914@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542914@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_RESC0402_1K/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13542946@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13542946@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13542946@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RESC0402_1M/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530144@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530144@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530144@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543480@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543480@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543480@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543599@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543599@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543599@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543711@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543711@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543711@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'RESISTOR_RESC0402_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13543826@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13543826@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page9_ins13543826@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RESC0402_NC_100K':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13530220@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13530220@capture.\resistor.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13530220@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TRNSFMR SP-42_0_SM-22_MABAES006':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13522729@XBLDFPGABOARD.TRNSFMR SP-42_0.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13522729@xbldfpgaboard.\trnsfmr sp-42_0.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13522729@xbldfpgaboard.\trnsfmr sp-42_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'XC6SLX45-2CSG324I_XC6SLX45-2CSG':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS368@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IA.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins368@\xc6slx45-2csg324i\.\xc6slx45-2csg324ia.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins368@\xc6slx45-2csg324i\.\xc6slx45-2csg324ia.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS921@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IB.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins921@\xc6slx45-2csg324i\.\xc6slx45-2csg324ib.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page2_ins921@\xc6slx45-2csg324i\.\xc6slx45-2csg324ib.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13498912@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IC.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13498912@\xc6slx45-2csg324i\.\xc6slx45-2csg324ic.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13498912@\xc6slx45-2csg324i\.\xc6slx45-2csg324ic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13499364@XC6SLX45-2CSG324I.XC6SLX45-2CSG324ID.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13499364@\xc6slx45-2csg324i\.\xc6slx45-2csg324id.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page3_ins13499364@\xc6slx45-2csg324i\.\xc6slx45-2csg324id.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503837@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IE.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503837@\xc6slx45-2csg324i\.\xc6slx45-2csg324ie.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13503837@\xc6slx45-2csg324i\.\xc6slx45-2csg324ie.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13503930@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IF.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13503930@\xc6slx45-2csg324i\.\xc6slx45-2csg324if.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13503930@\xc6slx45-2csg324i\.\xc6slx45-2csg324if.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504071@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IG.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504071@\xc6slx45-2csg324i\.\xc6slx45-2csg324ig.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504071@\xc6slx45-2csg324i\.\xc6slx45-2csg324ig.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13504252@XC6SLX45-2CSG324I.XC6SLX45-2CSG324IH.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13504252@\xc6slx45-2csg324i\.\xc6slx45-2csg324ih.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page4_ins13504252@\xc6slx45-2csg324i\.\xc6slx45-2csg324ih.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+PART_NAME
+ U2 'LTC2257-14_QFN-40_LTC2257-14':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13511166@LTC2257-14.LTC2257-14.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13511166@\ltc2257-14\.\ltc2257-14.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13511166@\ltc2257-14\.\ltc2257-14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TG5032CFN_TG5032CFN_TG5032CFN':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13517108@PCBLIB.TG5032CFN.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13517108@pcblib.\tg5032cfn.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page5_ins13517108@pcblib.\tg5032cfn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LT8609A_MSOP-10_LT8609A':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13527545@LT8609.LT8609A.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13527545@lt8609.\lt8609a.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13527545@lt8609.\lt8609a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'TPS82130_TPS82130_TPS82130':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13527612@PCBLIB.TPS82130.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13527612@pcblib.\tps82130.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13527612@pcblib.\tps82130.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'LP5907_SOT23-5_LP5907':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13527665@LP5907.LP5907.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13527665@lp5907.\lp5907.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13527665@lp5907.\lp5907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'LP5907_SOT23-5_LP5907':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13527693@LP5907.LP5907.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13527693@lp5907.\lp5907.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page6_ins13527693@lp5907.\lp5907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'W25Q128BVE_W25Q128BVE_W25Q128BV':;
+
+SECTION_NUMBER 1
+ '@XBLDFPGABOARD.SCHEMATIC1(SCH_1):INS13541668@PCBLIB.W25Q128BVE.NORMAL(CHIPS)':
+ C_PATH='@xbldfpgaboard.schematic1(sch_1):ins13541668@pcblib.\w25q128bve.normal\(chips)',
+ P_PATH='@xbldfpgaboard.schematic1(sch_1):page8_ins13541668@pcblib.\w25q128bve.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

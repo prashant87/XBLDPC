@@ -1,0 +1,164 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : xbldfpgaboard.brd                             )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Apr 08 16:03:24 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro'
+Design Directory:            '.'
+Old design name:             'F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd'
+New design name:             'F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd'
+
+CmdLine: netrev -$ -i F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro -y 1 -z -q netrev_constraint_report.xml F:/XBLD/Procedure/PCB/XBLDFPGABoard/#Taaaahn02248.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstchip.dat 
+   Finished reading F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstchip.dat (00:00:00.06)
+Starting to read F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstxprt.dat 
+   Finished reading F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstxprt.dat (00:00:00.01)
+Starting to read F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstxnet.dat 
+   Finished reading F:/XBLD/Procedure/PCB/XBLDFPGABoard/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+           E:/CADANCE16/CADENCE/PCBLIB/52463071/52463071_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/LEDC0603/LEDC0603_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/M4/M4_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/MTS202/MTS202_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/RESC0603/RESC0603_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P14X1/SHDR0S254P14X1_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P3X2/SHDR0S254P3X2_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P4X2/SHDR0S254P4X2_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/SHDR0S254P5X2_JTAG/SHDR0S254P5X2_JTAG_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/TP/TP_Allegro/ 
+           F:/XBLD/Procedure/PCB/XBLDProductiontools/ 
+           E:/CADANCE16/CADENCE/PCBLIB/TP_4_6/TP_4_6_ALLEGRO/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X1/SHDR0S254P3X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/xc6slx45-2csg324/xc6slx45-2csg324_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/MABAES0060/SM-22/SM-22_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/QFN-40/QFN-40_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TG5032CFN/TG5032CFN_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TPS82130/TPS82130_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LP5907/SOT23-5/SOT23-5_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/W25Q128BVE/W25Q128BVE_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC1210/CAPC1210/CAPC1210_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0603/CAPC0603/CAPC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0402/CAPC0402/CAPC0402_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0402/RESC0402_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0805/RESC0805/RESC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/INDC0805/INDC0805/INDC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/XFL4020/XFL4020/XFL4020_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SIG002/SIG002_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BM14B-SRSS-TB/BM14B-SRSS-TB_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BLD/BLD_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0805/CAPC0805/CAPC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LT8609/MSOP-10/MSOP-10_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S200P1X1/SHDR0S200P1X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P2X1/SHDR0S254P2X1_Allegro/ 
+
+PADPATH =  E:/Cadance16/Cadence/pcblib/52463071/52463071_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BLD/BLD_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BM14B-SRSS-TB/BM14B-SRSS-TB_Allegro/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/padstacks 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           E:/Cadance16/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+           E:/Cadance16/Cadence/pcblib/CAPC0402/CAPC0402/CAPC0402_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0603/CAPC0603/CAPC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC0805/CAPC0805/CAPC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/CAPC1210/CAPC1210/CAPC1210_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/INDC0805/INDC0805/INDC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LEDC0603/LEDC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LP5907/SOT23-5/SOT23-5_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LT8609/MSOP-10/MSOP-10_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/M4/M4_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/MTS202/MTS202_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0603/RESC0603_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P14X1/SHDR0S254P14X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X2/SHDR0S254P3X2_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P4X2/SHDR0S254P4X2_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P5X2_JTAG/SHDR0S254P5X2_JTAG_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TP/TP_Allegro/ 
+           F:/XBLD/Procedure/PCB/XBLDProductiontools/ 
+           E:/Cadance16/Cadence/pcblib/533643027/533643027_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P3X1/SHDR0S254P3X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TP_4_6/TP_4_6_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/xc6slx45-2csg324/xc6slx45-2csg324_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/MABAES0060/SM-22/SM-22_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/QFN-40/QFN-40_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TG5032CFN/TG5032CFN_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/TPS82130/TPS82130_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/LP5907/SOT23-5/SOT23-5_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/W25Q128BVE/W25Q128BVE_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0402/RESC0402_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/RESC0805/RESC0805/RESC0805_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SIG002/SIG002_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BM14B-SRSS-TB/BM14B-SRSS-TB_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/BLD/BLD_Allegro/ 
+           E:/CADANCE16/CADENCE/PCBLIB/XFL4020/XFL4020/XFL4020_ALLEGRO/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S200P1X1/SHDR0S200P1X1_Allegro/ 
+           E:/Cadance16/Cadence/pcblib/SHDR0S254P2X1/SHDR0S254P2X1_Allegro/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 8 16:03:24 2019
+   DESIGN NAME : 'XBLDFPGABOARD'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:30
+elapsed time  0:00:02
+

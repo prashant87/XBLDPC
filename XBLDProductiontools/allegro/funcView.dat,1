@@ -1,0 +1,26 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!
+J!F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd!Fri Mar 08 15:19:45 2019!-793.701!-1185.827!7092.913!6692.913!0.001!mils!XBLD_PRODUCTION_TOOLS!10.400000 mil!2!UP TO DATE!
+S!@xbld_production_tools.schematic1(sch_1):ins13551149@xbld_production_tools.\conn pcb 15x2-p_0.normal\(chips)!CONN PCB 15X2-P_0_533643027_CON!J7!.\pstchip.dat!!!!!!F10!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13552753@connector.\header 3.normal\(chips)!HEADER 3_SHDR0S254P3X1_HEADER 3!EN1!.\pstchip.dat!!!!!!F9!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13552771@connector.\header 3.normal\(chips)!HEADER 3_SHDR0S254P3X1_HEADER 3!EN2!.\pstchip.dat!!!!!!F8!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13553376@connector.\test point.normal\(chips)!TEST POINT_TP_4_6_TEST POINT!TP2!.\pstchip.dat!!!!!!F0!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins87@connector.\test point.normal\(chips)!TEST POINT_TP_4_6_TEST POINT!TP1!.\pstchip.dat!!!!!!F1!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins391@xbld_production_tools.\sw key-dpdt_0.normal\(chips)!SW KEY-DPDT_0_MTS202_SW KEY-DPD!ON!.\pstchip.dat!!!!!!F6!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13547092@xbld_production_tools.\header 15x2/sm_0.normal\(chips)!HEADER 15X2/SM_0_52463071_HEADE!J4!.\pstchip.dat!!!!!!F12!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13543541@discrete.\led.normal\(chips)!LED_LEDC0603_LED!VCC!.\pstchip.dat!!!!!!F17!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13543775@discrete.\led.normal\(chips)!LED_LEDC0603_LED!FPGA!.\pstchip.dat!!!!!!F18!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13544487@discrete.\led.normal\(chips)!LED_LEDC0603_LED!CONF!.\pstchip.dat!!!!!!F19!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13545989@connector.\header 3x2.normal\(chips)!HEADER 3X2_SHDR0S254P3X2_HEADER!J3!.\pstchip.dat!!!!!!F13!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13546151@connector.\header 3x2.normal\(chips)!HEADER 3X2_SHDR0S254P3X2_HEADER!J2!.\pstchip.dat!!!!!!F14!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins287@connector.\con1.normal\(chips)!CON1_M4_CON1!3V3!.\pstchip.dat!!!!!!F22!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins245@connector.\con1.normal\(chips)!CON1_M4_CON1!12V!.\pstchip.dat!!!!!!F23!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins259@connector.\con1.normal\(chips)!CON1_M4_CON1!GND1!.\pstchip.dat!!!!!!F21!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins273@connector.\con1.normal\(chips)!CON1_M4_CON1!GND2!.\pstchip.dat!!!!!!F20!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins659@connector.\header 5x2.normal\(chips)!HEADER 5X2_SHDR0S254P5X2_JTAG_H!JTAG!.\pstchip.dat!!!!!!F7!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins712@connector.\header 4x2.normal\(chips)!HEADER 4X2_SHDR0S254P4X2_HEADER!J5!.\pstchip.dat!!!!!!F11!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13544859@connector.\header 14.normal\(chips)!HEADER 14_SHDR0S254P14X1_HEADER!J1!.\pstchip.dat!!!!!!F16!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins334@connector.\header 14.normal\(chips)!HEADER 14_SHDR0S254P14X1_HEADER!J6!.\pstchip.dat!!!!!!F15!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13544517@capture.\resistor.normal\(chips)!RESISTOR_RESC0603_330R/1%!R4!.\pstchip.dat!!!!!!F2!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13543571@capture.\resistor.normal\(chips)!RESISTOR_RESC0603_220R/1%!R1!.\pstchip.dat!!!!!!F5!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13543805@capture.\resistor.normal\(chips)!RESISTOR_RESC0603_220R/1%!R2!.\pstchip.dat!!!!!!F4!!!!
+S!@xbld_production_tools.schematic1(sch_1):ins13544539@capture.\resistor.normal\(chips)!RESISTOR_RESC0603_220R/1%!R3!.\pstchip.dat!!!!!!F3!!!!

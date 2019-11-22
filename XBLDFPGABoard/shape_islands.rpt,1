@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : xbldfpgaboard.brd                             )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Apr 09 16:13:34 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (583.172 1260.516)  Net: GND

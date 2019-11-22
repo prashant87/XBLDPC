@@ -1,0 +1,201 @@
+! Log file started at 9:47:18 4/8/2019 
+INFO (SPGRE-16): Strategy file Date: Oct-28-2015
+INFO (SPGRE-16): Strategy file Version: 16.6
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND05 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer PWR04 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer ART03 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND02 is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(441.454,1338.583)-(404.761,1301.890) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 88.565 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 77988 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(419.311,1274.843)-(377.244,1274.843) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(350.000,1301.890)-(463.366,1318.898),TOP, Net N13520297: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 152.544 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 77986 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 88.565 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 77993 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(377.244,1274.843)-(419.311,1274.843) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(350.000,1301.890)-(463.366,1318.898),TOP, Net N13520297: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 152.544 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80107 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 88.565 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80114 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(377.244,1274.843)-(419.311,1274.843) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(350.000,1301.890)-(463.366,1318.898),TOP, Net N13520297: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 241.109 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80114 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 88.565 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80130 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(377.244,1274.843)-(419.311,1274.843) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(350.000,1301.890)-(463.366,1318.898),TOP, Net N13520297: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 2
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 241.109 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80046 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 2, Rats processed: 2, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520297 from Pin R28.2(350.000, 1301.890) - Pin U2.2(463.366, 1318.898) on TOP
+INFO (SPGRE-16):   ----: Rat R28.2 - U2.2 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+WARNING (SPGRE-31): Non-default min Width of 8.000 on segment:(404.761,1301.890)-(441.454,1338.583) may limit timing throughput
+WARNING (SPGRE-31):        on Cline:(390.000,1301.890)-(463.366,1338.583),TOP, Net N13520293: Default Width=5.000
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 1
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.000 MIL
+INFO (SPGRE-16):   Routed length of scheduled rats = 88.565 MIL
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 80061 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net N13520293 from Pin R27.2(390.000, 1301.890) - Pin U2.1(463.366, 1338.583) on TOP
+INFO (SPGRE-16):   ----: Rat R27.2 - U2.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************

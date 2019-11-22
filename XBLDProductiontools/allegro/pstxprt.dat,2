@@ -1,0 +1,250 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-08-2019 at 15:20:06 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='XBLD_PRODUCTION_TOOLS';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 12V 'CON1_M4_CON1':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS245@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins245@connector.\con1.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins245@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 3V3 'CON1_M4_CON1':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS287@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins287@connector.\con1.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins287@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONF 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13544487@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13544487@discrete.\led.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13544487@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FPGA 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13543775@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13543775@discrete.\led.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13543775@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND1 'CON1_M4_CON1':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS259@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins259@connector.\con1.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins259@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND2 'CON1_M4_CON1':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS273@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins273@connector.\con1.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins273@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 14_SHDR0S254P14X1_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13544859@CONNECTOR.HEADER 14.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13544859@connector.\header 14.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13544859@connector.\header 14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 3X2_SHDR0S254P3X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13546151@CONNECTOR.HEADER 3X2.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13546151@connector.\header 3x2.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13546151@connector.\header 3x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 3X2_SHDR0S254P3X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13545989@CONNECTOR.HEADER 3X2.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13545989@connector.\header 3x2.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13545989@connector.\header 3x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 15X2/SM_0_52463071_HEADE':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13547092@XBLD_PRODUCTION_TOOLS.HEADER 15X2/SM_0.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13547092@xbld_production_tools.\header 15x2/sm_0.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13547092@xbld_production_tools.\header 15x2/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 4X2_SHDR0S254P4X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS712@CONNECTOR.HEADER 4X2.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins712@connector.\header 4x2.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins712@connector.\header 4x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 14_SHDR0S254P14X1_HEADER':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS334@CONNECTOR.HEADER 14.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins334@connector.\header 14.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins334@connector.\header 14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CONN PCB 15X2-P_0_533643027_CON':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13551149@XBLD_PRODUCTION_TOOLS.CONN PCB 15X2-P_0.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13551149@xbld_production_tools.\conn pcb 15x2-p_0.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13551149@xbld_production_tools.\conn pcb 15x2-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 3_SHDR0S254P3X1_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13552753@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13552753@connector.\header 3.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13552753@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 3_SHDR0S254P3X1_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13552771@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13552771@connector.\header 3.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13552771@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JTAG 'HEADER 5X2_SHDR0S254P5X2_JTAG_H':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS659@CONNECTOR.HEADER 5X2.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins659@connector.\header 5x2.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins659@connector.\header 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ON 'SW KEY-DPDT_0_MTS202_SW KEY-DPD':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS391@XBLD_PRODUCTION_TOOLS.SW KEY-DPDT_0.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins391@xbld_production_tools.\sw key-dpdt_0.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins391@xbld_production_tools.\sw key-dpdt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC0603_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13543571@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13543571@capture.\resistor.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13543571@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC0603_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13543805@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13543805@capture.\resistor.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13543805@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC0603_220R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13544539@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13544539@capture.\resistor.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13544539@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RESC0603_330R/1%':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13544517@CAPTURE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13544517@capture.\resistor.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13544517@capture.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_TP_4_6_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS87@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins87@connector.\test point.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins87@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_TP_4_6_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13553376@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13553376@connector.\test point.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13553376@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VCC 'LED_LEDC0603_LED':;
+
+SECTION_NUMBER 1
+ '@XBLD_PRODUCTION_TOOLS.SCHEMATIC1(SCH_1):INS13543541@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@xbld_production_tools.schematic1(sch_1):ins13543541@discrete.\led.normal\(chips)',
+ P_PATH='@xbld_production_tools.schematic1(sch_1):page1_ins13543541@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

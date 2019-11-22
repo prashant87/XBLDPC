@@ -1,0 +1,27 @@
+\t (02:05:55) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (02:05:55)     Journal start - Wed Apr 10 10:29:22 2019
+\t (02:05:55)         Host=OFFICE-PC User=office Pid=3168 CPUs=2
+\t (02:05:55) CmdLine= E:\Cadance16\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (02:05:55) 
+\d (02:05:55) Design opened: F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd
+\i (02:05:55) generaledit 
+\i (02:05:57) zoom in 1 
+\i (02:05:57) setwindow pcb
+\i (02:05:57) zoom in -60.214 -5.373
+\t (02:05:57) Grids are drawn 39.370, 39.370 apart for enhanced viewability.
+\i (02:05:57) trapsize 28652
+\i (02:05:57) zoom in 1 
+\i (02:05:57) setwindow pcb
+\i (02:05:57) zoom in -54.484 6.088
+\i (02:05:57) trapsize 14326
+\i (02:05:58) zoom in 1 
+\i (02:05:58) setwindow pcb
+\i (02:05:58) zoom in 11.416 57.661
+\i (02:05:58) trapsize 7163
+\i (02:06:04) flipdesign 
+\i (02:06:21) opencd F:/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd 
+\t (02:06:21) Opening existing design...
+\t (02:06:21) Grids are drawn 80.000, 80.000 apart for enhanced viewability.
+\t (02:06:21) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (02:06:21) trapsize 14326
+\t (02:06:21)     Journal end - Wed Apr 10 10:29:49 2019

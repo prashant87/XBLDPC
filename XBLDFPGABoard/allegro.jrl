@@ -1,0 +1,55 @@
+\t (00:00:05) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:05)     Journal start - Fri Oct 18 14:44:01 2019
+\t (00:00:05)         Host=ZYPLAB-PC User=zyplab Pid=7312 CPUs=4
+\t (00:00:05) CmdLine= D:\SoftwareSpace\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: D:/ProjectSpace/XBLD/Procedure/PCB/XBLDFPGABoard/xbldfpgaboard.brd
+\i (00:00:07) trapsize 1908
+\i (00:00:07) trapsize 1874
+\i (00:00:07) trapsize 1914
+\i (00:00:07) trapsize 1931
+\i (00:00:08) trapsize 1703
+\i (00:00:08) trapsize 1967
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 1130.378 973.001
+\i (00:00:10) trapsize 3934
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 1130.378 973.000
+\t (00:00:10) Grids are drawn 10.000, 10.000 apart for enhanced viewability.
+\i (00:00:10) trapsize 7868
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 1130.379 973.000
+\t (00:00:10) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:10) trapsize 15736
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 1843.596 973.000
+\t (00:00:10) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:10) trapsize 31471
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 710.629 1054.932
+\t (00:00:11) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:11) trapsize 15736
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 710.629 1054.932
+\t (00:00:11) Grids are drawn 10.000, 10.000 apart for enhanced viewability.
+\i (00:00:11) trapsize 7868
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 1780.655 1431.015
+\t (00:00:19) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:19) trapsize 15736
+\i (00:00:20) open 
+\i (00:00:34) fillin "D:\ProjectSpace\YDQJCY\ReferenceMaterial\datasheet\ADRF6520-Evaluation Board Files - RevB\08_041246b.brd"
+\i (00:00:34) cd "D:\ProjectSpace\YDQJCY\ReferenceMaterial\datasheet\ADRF6520-Evaluation Board Files - RevB"
+\t (00:00:34) Opening existing design...
+\t (00:00:35) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:35) trapsize 303
+\t (00:00:35)     Journal end - Fri Oct 18 14:44:31 2019

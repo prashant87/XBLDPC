@@ -1,0 +1,247 @@
+P  JOB   F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd                 
+P  CODE  00                                                                     
+P  UNITS CUST 0                                                                 
+P  TITLE F:/XBLD/Procedure/PCB/XBLDProductiontools/newtools.brd                 
+P  NUM   001                                                                    
+P  REV   A                                                                      
+P  VER IPC-D-356A                                                               
+C                                                                               
+C  IPC-D-356 Ouptut File from Allegro                                           
+C  IPC File Date: Tue Mar 12 13:23:38 2019                                      
+C  Login Name:    office                                                        
+C                                                                               
+C                                                                               
+C  Board File:             newtools.brd                                         
+C  Design Rule Status:     UP TO DATE                                           
+C  Unit of Measure:        mils                                                 
+C  Decimal Place Accuracy: 3                                                    
+C  Number of etch Layers:  2                                                    
+C  Board Thickness(mils):  10.400000                                            
+C  Drawing Extents(mils):  -793701  -1185827  17092913  16692913                
+C                                                                               
+C                                                                               
+C  BOARD LAYER INFORMATION                                                      
+C                                                                               
+C     Layer      Layer            Layer             Film  Layer                 
+C     Name       Material         Type              Type  Number                
+C  ---------------------------------------------------------                    
+C  TOP           COPPER           CONDUCTOR         POS     1                   
+C  BOTTOM        COPPER           CONDUCTOR         POS     2                   
+C                                                                               
+C                                                                               
+C  PADSTACK INFORMATION                                                         
+C                                                                               
+C     Padstack          First     Last                                          
+C     Name              Layer     Layer     Width     Height                    
+C  ---------------------------------------------------------                    
+C  R40_60               TOP       TOP           15748     23622                 
+C  R207_60              TOP       TOP           81693     23622                 
+C  40X30                TOP       TOP           46000     36000                 
+C  VIA20-T-B            TOP       BOTTOM        30000     30000                 
+C  VIA                  TOP       BOTTOM        44000     44000                 
+C  VIA-M3               TOP       BOTTOM       173228    173228                 
+C  PAD125CIR63D         TOP       BOTTOM       150000    150000                 
+C  C307H247T287_317     TOP       BOTTOM       121063    121063                 
+C  S307H247T287_317     TOP       BOTTOM       121063    121063                 
+C  R92_100              TOP       TOP           36417     39370                 
+C  C140H60              TOP       BOTTOM        55118     55118                 
+C  S140H60              TOP       BOTTOM        55118     55118                 
+C  R160_55              TOP       TOP           62992     21654                 
+C  C145H65              TOP       BOTTOM        57087     57087                 
+C  S145H65              TOP       BOTTOM        57087     57087                 
+C  C580H480             TOP       BOTTOM       228346    228346                 
+C  C182H102             TOP       BOTTOM        71654     71654                 
+C  S182H102             TOP       BOTTOM        71654     71654                 
+C  R75_80               TOP       TOP           29528     31496                 
+C                                                                               
+C                                                                               
+C  ****************************************                                     
+C      SIGNAL PINS & VIAS ON THE BOARD                                          
+C  ****************************************                                     
+C                                                                               
+317N13554336        EN3   -1    D0402PA00X+017323Y+035433X0717Y0717R270 S3      
+317N13554336        ON    -6    D0974PA00X+013661Y+035472X1211Y    R090 S3      
+317TP1              J5    -5    D0402PA00X+043276Y+032874X0717Y    R180 S3      
+327TP1              TP1   -1          A01X+025394Y+035236X0157Y0236     S1      
+317POWEN2           EN2   -2    D0402PA00X+033268Y+014748X0717Y    R270 S3      
+327POWEN2           J4    -5          A01X+038533Y+022008X0630Y0217R180 S1      
+317POWEN2           VIA   -    MD0130PA00X+039331Y+022008X0240Y         S3      
+317POWEN2           J1    -2   MD0236PA00X+028346Y+026567X0551Y    R270 S3      
+327POWEN2           TP2   -1          A01X+025394Y+032677X0157Y0236     S1      
+327POWER_EN2        J7    -5          A01X+031929Y+008450X0817Y0236R090 S1      
+317POWER_EN2        VIA   -    MD0130PA00X+031929Y+007717X0240Y         S3      
+317POWER_EN2        EN2   -3    D0402PA00X+033268Y+013748X0717Y    R270 S3      
+327POWER_EN1        J7    -26         A01X+031929Y+010054X0817Y0236R270 S1      
+317POWER_EN1        VIA   -    MD0130PA00X+031929Y+009252X0240Y         S3      
+317POWER_EN1        EN1   -3    D0402PA00X+030905Y+013748X0717Y    R270 S3      
+327ARM_GPIO4        J7    -12         A01X+034134Y+008450X0817Y0236R090 S1      
+317ARM_GPIO4        VIA   -    MD0130PA00X+034134Y+007165X0240Y         S3      
+327ARM_GPIO4        J4    -12         A01X+038533Y+019803X0630Y0217R180 S1      
+317ARM_GPIO4        VIA   -    MD0130PA00X+039291Y+019803X0240Y         S3      
+317ARM_GPIO4        J1    -12  MD0236PA00X+028346Y+016567X0551Y    R270 S3      
+327ARM_GPIO2        J7    -11         A01X+033819Y+008450X0817Y0236R090 S1      
+317ARM_GPIO2        VIA   -    MD0130PA00X+033819Y+006496X0240Y         S3      
+327ARM_GPIO2        J4    -11         A01X+038533Y+020118X0630Y0217R180 S1      
+317ARM_GPIO2        VIA   -    MD0130PA00X+039370Y+020472X0240Y         S3      
+317ARM_GPIO2        J1    -10  MD0236PA00X+028346Y+018567X0551Y    R270 S3      
+327ARM_UART3_TX     J7    -9          A01X+033189Y+008450X0817Y0236R090 S1      
+317ARM_UART3_TX     VIA   -    MD0130PA00X+033071Y+006102X0240Y         S3      
+327ARM_UART3_TX     J4    -9          A01X+038533Y+020748X0630Y0217R180 S1      
+317ARM_UART3_TX     VIA   -    MD0130PA00X+039094Y+020748X0240Y         S3      
+317ARM_UART3_TX     J1    -8   MD0236PA00X+028346Y+020567X0551Y    R270 S3      
+327ARM_UART2_RX     J7    -8          A01X+032874Y+008450X0817Y0236R090 S1      
+317ARM_UART2_RX     VIA   -    MD0130PA00X+032283Y+005709X0240Y         S3      
+327ARM_UART2_RX     J4    -8          A01X+038533Y+021063X0630Y0217R180 S1      
+317ARM_UART2_RX     VIA   -    MD0130PA00X+039764Y+021063X0240Y         S3      
+317ARM_UART2_RX     J1    -5   MD0236PA00X+028346Y+023567X0551Y    R270 S3      
+327ARM_GPIO3        J7    -19         A01X+034134Y+010054X0817Y0236R270 S1      
+327ARM_GPIO3        J4    -19         A01X+037057Y+019803X0630Y0217     S1      
+317ARM_GPIO3        J1    -11  MD0236PA00X+028346Y+017567X0551Y    R270 S3      
+327ARM_GPIO1        J7    -20         A01X+033819Y+010054X0817Y0236R270 S1      
+327ARM_GPIO1        J4    -20         A01X+037057Y+020118X0630Y0217     S1      
+317ARM_GPIO1        J1    -9   MD0236PA00X+028346Y+019567X0551Y    R270 S3      
+327ARM_UART3_RX     J7    -21         A01X+033504Y+010054X0817Y0236R270 S1      
+327ARM_UART3_RX     J4    -21         A01X+037057Y+020433X0630Y0217     S1      
+317ARM_UART3_RX     J1    -7   MD0236PA00X+028346Y+021567X0551Y    R270 S3      
+327ARM_UART2_TX     J7    -23         A01X+032874Y+010054X0817Y0236R270 S1      
+327ARM_UART2_TX     J4    -23         A01X+037057Y+021063X0630Y0217     S1      
+317ARM_UART2_TX     J1    -6   MD0236PA00X+028346Y+022567X0551Y    R270 S3      
+327ARM_UART1_TX     J7    -6          A01X+032244Y+008450X0817Y0236R090 S1      
+317ARM_UART1_TX     VIA   -    MD0130PA00X+031496Y+005315X0240Y         S3      
+327ARM_UART1_TX     J4    -6          A01X+038533Y+021693X0630Y0217R180 S1      
+317ARM_UART1_TX     VIA   -    MD0130PA00X+039370Y+021457X0240Y         S3      
+317ARM_UART1_TX     J1    -4   MD0236PA00X+028346Y+024567X0551Y    R270 S3      
+327ARM_UART1_RX     J7    -24         A01X+032559Y+010054X0817Y0236R270 S1      
+327ARM_UART1_RX     J4    -24         A01X+037057Y+021378X0630Y0217     S1      
+317ARM_UART1_RX     J1    -3   MD0236PA00X+028346Y+025567X0551Y    R270 S3      
+327N13544559        R3    -1          A01X+016024Y+016732X0364Y0394     S1      
+327N13544559        CONF  -1          A01X+013278Y+016732X0295Y0315R180 S1      
+327N135437851       R2    -1          A01X+016024Y+020669X0364Y0394     S1      
+327N135437851       FPGA  -1          A01X+013278Y+020669X0295Y0315R180 S1      
+3173V_IN            3V3   -1    D1890PA00X+003346Y+006102X2283Y         S3      
+3173V_IN            ON    -5    D0974PA00X+011811Y+035472X1211Y    R090 S3      
+31712V_IN           12V   -1    D1890PA00X+003346Y+033071X2283Y         S3      
+31712V_IN           ON    -2    D0974PA00X+011811Y+037362X1211Y    R270 S3      
+327N135435511       R1    -1          A01X+016024Y+023819X0364Y0394     S1      
+327N135435511       VCC   -1          A01X+013278Y+023819X0295Y0315R180 S1      
+317AUX_GPIO1        J6    -8    D0236PA00X+045079Y+021370X0551Y    R090 S3      
+327AUX_GPIO1        CONF  -2   M      A01X+012707Y+016732X0295Y0315     S1      
+327AUX_GPIO1        R4    -2          A01X+009370Y+016732X0364Y0394R180 S1      
+317FPGA_TDO         JTAG  -7    D0256PA00X+044882Y+008512X0571Y    R090 S3      
+317FPGA_TDO         J6    -6    D0236PA00X+045079Y+019370X0551Y    R090 S3      
+317FPGA_TDI         J6    -5    D0236PA00X+045079Y+018370X0551Y    R090 S3      
+317FPGA_TDI         JTAG  -1    D0256PA00X+044882Y+005512X0571Y0571R090 S3      
+317FPGA_TMS         J6    -4    D0236PA00X+045079Y+017370X0551Y    R090 S3      
+317FPGA_TMS         JTAG  -5    D0256PA00X+044882Y+007512X0571Y    R090 S3      
+317FPGA_TCK         J6    -3    D0236PA00X+045079Y+016370X0551Y    R090 S3      
+317FPGA_TCK         JTAG  -9    D0256PA00X+044882Y+009512X0571Y    R090 S3      
+317F_3V3            JTAG  -8   MD0256PA00X+043882Y+008512X0571Y    R090 S3      
+317F_3V3            J6    -1    D0236PA00X+045079Y+014370X0551Y0551R090 S3      
+317F_3V3            VIA   -    MD0200PA00X+012707Y+019774X0300Y         S0      
+327F_3V3            FPGA  -2          A01X+012707Y+020669X0295Y0315     S1      
+327F_3V3            R4    -1          A01X+008740Y+016732X0364Y0394     S1      
+317POWEN1           EN1   -2    D0402PA00X+030905Y+014748X0717Y    R270 S3      
+327POWEN1           J4    -26  M      A01X+037057Y+022008X0630Y0217     S1      
+317POWEN1           J1    -1    D0236PA00X+028346Y+027567X0551Y0551R270 S3      
+3173V               EN3   -2   MD0402PA00X+017323Y+034433X0717Y    R270 S3      
+3273V               VCC   -2          A01X+012707Y+023819X0295Y0315     S1      
+3173V               VIA   -    MD0130PA00X+034646Y+015748X0240Y         S3      
+3173V               EN2   -1   MD0402PA00X+033268Y+015748X0717Y0717R270 S3      
+3173V               EN1   -1   MD0402PA00X+030905Y+015748X0717Y0717R270 S3      
+32712V              J4    -30         A01X+037057Y+023268X0630Y0217     S1      
+31712V              J5    -1   MD0402PA00X+045276Y+032874X0717Y0717R180 S3      
+31712V              ON    -1    D0974PA00X+013661Y+037362X1211Y1211R270 S3      
+31712V              J5    -2   MD0402PA00X+045276Y+031874X0717Y    R180 S3      
+32712V              J4    -1   M      A01X+038533Y+023268X0630Y0217R180 S1      
+32712V              J7    -1   M      A01X+030669Y+008450X0817Y0236R090 S1      
+32712V              J7    -30         A01X+030669Y+010054X0817Y0236R270 S1      
+317GND              VIA   -     D1299PA00X+001500Y+001500X1693Y         S0      
+317GND              VIA   -     D1299PA00X+045744Y+001500X1693Y         S0      
+317GND              JTAG  -2    D0256PA00X+043882Y+005512X0571Y    R090 S3      
+327GND              J7    -2          A01X+030984Y+008450X0817Y0236R090 S1      
+317GND              VIA   -    MD0130PA00X+031102Y+009252X0240Y         S3      
+327GND              J7    -27         A01X+031614Y+010054X0817Y0236R270 S1      
+327GND              J7    -4          A01X+031614Y+008450X0817Y0236R090 S1      
+327GND              J7    -29         A01X+030984Y+010054X0817Y0236R270 S1      
+327GND              J7    -13         A01X+034449Y+008450X0817Y0236R090 S1      
+327GND              J7    -18         A01X+034449Y+010054X0817Y0236R270 S1      
+317GND              VIA   -    MD0130PA00X+034055Y+009252X0240Y         S3      
+327GND              J7    -10         A01X+033504Y+008450X0817Y0236R090 S1      
+327GND              J7    -7          A01X+032559Y+008450X0817Y0236R090 S1      
+317GND              VIA   -    MD0130PA00X+032677Y+009252X0240Y         S3      
+327GND              J7    -25         A01X+032244Y+010054X0817Y0236R270 S1      
+327GND              J7    -22         A01X+033189Y+010054X0817Y0236R270 S1      
+317GND              JTAG  -10   D0256PA00X+043882Y+009512X0571Y    R090 S3      
+317GND              GND2  -1    D1890PA00X+003346Y+015092X2283Y         S3      
+317GND              J6    -2    D0236PA00X+045079Y+015370X0551Y    R090 S3      
+317GND              VIA   -    MD0200PA00X+017323Y+020669X0300Y         S0      
+327GND              R2    -2   M      A01X+016654Y+020669X0364Y0394R180 S1      
+327GND              R1    -2          A01X+016654Y+023819X0364Y0394R180 S1      
+327GND              R3    -2          A01X+016654Y+016732X0364Y0394R180 S1      
+317GND              J6    -7    D0236PA00X+045079Y+020370X0551Y    R090 S3      
+317GND              GND1  -1    D1890PA00X+003346Y+024081X2283Y         S3      
+317GND              VIA   -    MD0130PA00X+036220Y+022835X0240Y         S3      
+327GND              J4    -2          A01X+038533Y+022953X0630Y0217R180 S1      
+327GND              J4    -29  M      A01X+037057Y+022953X0630Y0217     S1      
+327GND              J4    -4          A01X+038533Y+022323X0630Y0217R180 S1      
+327GND              J4    -27  M      A01X+037057Y+022323X0630Y0217     S1      
+317GND              J5    -3    D0402PA00X+044276Y+032874X0717Y    R180 S3      
+317GND              J5    -4    D0402PA00X+044276Y+031874X0717Y    R180 S3      
+317GND              VIA   -     D1299PA00X+001500Y+037870X1693Y         S0      
+317GND              VIA   -     D1299PA00X+045744Y+037870X1693Y         S0      
+317N13546295        J2    -1    D0402PA00X+039370Y+036024X0717Y0717R180 S3      
+317N13546295        J3    -2    D0402PA00X+039370Y+031874X0717Y    R180 S3      
+317N13546270        J2    -3    D0402PA00X+038370Y+036024X0717Y    R180 S3      
+317N13546270        J3    -4    D0402PA00X+038370Y+031874X0717Y    R180 S3      
+317N13546258        J2    -5    D0402PA00X+037370Y+036024X0717Y    R180 S3      
+317N13546258        J3    -6    D0402PA00X+037370Y+031874X0717Y    R180 S3      
+317N13546248        J3    -3    D0402PA00X+038370Y+032874X0717Y    R180 S3      
+317N13546248        J2    -4    D0402PA00X+038370Y+035024X0717Y    R180 S3      
+317N13546250        J3    -5    D0402PA00X+037370Y+032874X0717Y    R180 S3      
+317N13546250        J2    -6    D0402PA00X+037370Y+035024X0717Y    R180 S3      
+317N13546246        J3    -1    D0402PA00X+039370Y+032874X0717Y0717R180 S3      
+317N13546246        J2    -2    D0402PA00X+039370Y+035024X0717Y    R180 S3      
+C                                                                               
+C  ****************************************                                     
+C      DUMMY NET PINS & VIAS ON THE BOARD                                       
+C  ****************************************                                     
+C                                                                               
+317N/C              J1    -13   D0236PA00X+028346Y+015567X0551Y    R270 S3      
+317N/C              J1    -14   D0236PA00X+028346Y+014567X0551Y    R270 S3      
+327N/C              J7    -16         A01X+035079Y+010054X0817Y0236R270 S1      
+327N/C              J7    -14         A01X+034764Y+008450X0817Y0236R090 S1      
+327N/C              J7    -17         A01X+034764Y+010054X0817Y0236R270 S1      
+327N/C              J7    -15         A01X+035079Y+008450X0817Y0236R090 S1      
+327N/C              J7    -3          A01X+031299Y+008450X0817Y0236R090 S1      
+317N/C              ON    -3    D0974PA00X+009961Y+037362X1211Y    R270 S3      
+317N/C              ON    -4    D0974PA00X+009961Y+035472X1211Y    R090 S3      
+327N/C              J4    -7          A01X+038533Y+021378X0630Y0217R180 S1      
+327N/C              J4    -25         A01X+037057Y+021693X0630Y0217     S1      
+327N/C              J4    -22         A01X+037057Y+020748X0630Y0217     S1      
+327N/C              J4    -10         A01X+038533Y+020433X0630Y0217R180 S1      
+327N/C              J4    -3          A01X+038533Y+022638X0630Y0217R180 S1      
+327N/C              J4    -18         A01X+037057Y+019488X0630Y0217     S1      
+327N/C              J4    -16         A01X+037057Y+018858X0630Y0217     S1      
+327N/C              J4    -15         A01X+038533Y+018858X0630Y0217R180 S1      
+327N/C              J4    -13         A01X+038533Y+019488X0630Y0217R180 S1      
+327N/C              J4    -17         A01X+037057Y+019173X0630Y0217     S1      
+327N/C              J4    -14         A01X+038533Y+019173X0630Y0217R180 S1      
+317N/C              J6    -9    D0236PA00X+045079Y+022370X0551Y    R090 S3      
+317N/C              J6    -14   D0236PA00X+045079Y+027370X0551Y    R090 S3      
+317N/C              J6    -13   D0236PA00X+045079Y+026370X0551Y    R090 S3      
+317N/C              J6    -12   D0236PA00X+045079Y+025370X0551Y    R090 S3      
+317N/C              J6    -11   D0236PA00X+045079Y+024370X0551Y    R090 S3      
+317N/C              J6    -10   D0236PA00X+045079Y+023370X0551Y    R090 S3      
+327N/C              J4    -28         A01X+037057Y+022638X0630Y0217     S1      
+317N/C              J5    -8    D0402PA00X+042276Y+031874X0717Y    R180 S3      
+317N/C              J5    -7    D0402PA00X+042276Y+032874X0717Y    R180 S3      
+317N/C              J5    -6    D0402PA00X+043276Y+031874X0717Y    R180 S3      
+317N/C              JTAG  -6    D0256PA00X+043882Y+007512X0571Y    R090 S3      
+317N/C              JTAG  -4    D0256PA00X+043882Y+006512X0571Y    R090 S3      
+317N/C              JTAG  -3    D0256PA00X+044882Y+006512X0571Y    R090 S3      
+327N/C              J7    -28         A01X+031299Y+010054X0817Y0236R270 S1      
+317N/C              EN3   -3    D0402PA00X+017323Y+033433X0717Y    R270 S3      
+C                                                                               
+C  End-of-Job                                                                   
+C                                                                               
+999                                                                             
